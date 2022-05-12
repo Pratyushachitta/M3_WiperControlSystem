@@ -1,1 +1,566 @@
+ELF          (            ,     4     ( Â Á    Z   [      \   ]      ^   _      `   a      b   c      d   e      f   g      h   i      j   k      l   m      n   o      p   q      r   s      t   u      v   w      x   y      z   {      |   }      ~         €         ‚   ƒ      „   …      †   ‡      ˆ   ‰      Š   ‹      Œ         Ž            ‘      ’   “      ”   •      –   —      ˜   ™      š   ›      œ         ž   Ÿ          ¡      ¢   £      ¤   ¥      ¦   §      ¨   ©      ª   «      ¬   ­      ®   ¯      °   ±      ²   ³      ´   µ      ¶   ·       €´ ¯ ¿½F]ø{pG€´ ¯#F½F]ø{pG€µ‚° ¯x`9`ÿ÷þÿF"`Oðÿ3F7½F€½€µ‚° ¯x`Oðÿ1xhÿ÷þÿþç€µ†° ¯ø`¹`z` #{a
+àÿ÷þÿF»hZº`Ê²p{i3{azi{hšBðÛ{hF7½F€½€µ†° ¯ø`¹`z` #{a	à»hZº`xFÿ÷þÿ{i3{azi{hšBñÛ{hF7½F€½€´ƒ° ¯x`Oðÿ3F7½F]ø{pG€´ƒ° ¯x`9`;hOô RZ` #F7½F]ø{pG€´ƒ° ¯x`#F7½F]ø{pG€´…° ¯ø`¹`z` #F7½F]ø{pG´€´‚° ¯x`Oðÿ3F7½F]ø{°pG€µ‚° ¯x`ÿ÷þÿF
+"`Oðÿ3F7½F€½€µ‚° ¯x`ÿ÷þÿF"`Oðÿ3F7½F€½€´ƒ° ¯x`Oðÿ3F7½F]ø{pG€´ƒ° ¯x`9`;hOô RZ` #F7½F]ø{pG€µ‚° ¯x`9`ÿ÷þÿF"`Oðÿ3F7½F€½€µ ¯ÿ÷þÿF
+"`Oðÿ3F€½€µ„° ¯ø`¹`z`ÿ÷þÿF"`Oðÿ3F7½F€½¤       ên  r  †‰                  r  ´   u   â…    ¨H  OX    º>  1f   +c  ¤y  È_   int  ¶Q  e^  j	  ^€   ÷I  E   m  "E   ´„  .E   ‰  87   y€  <>   <€  ?>   ðG  K>   Ý+  ZL   ³4  f³   Éƒ  tE   ¥5   7  §Ž    .a  ¨5   0   E  	€    
+¢	i  
+Ó[  ¤ y    
+Ø  ©   cN  ªE  ‹  Ñ>   Ì  X   L€  "›  
+¡  ã4  -k  #  9E  4  
+ím  6   _k 7 y   
+'z  7
+y   
+nN  7y   
+g4  7y   _x 8
+   
+²  ƒ  "  	€     T	  $<¥  
+q	  >	y    
+P  ?	y   
+	†  @	y   
+NV  A	y   
+Ï  B	y   
+ z  C	y   
+¿]  D	y   
+¯^  E	y   
+–‹  F	y     ;  Oê  
+Ö  P
+ê   
+e  Q	ê  €˜  S
+ƒ   D€  V
+ƒ   u  ú  	€    ÖY  ŒZ<  
+ím  [<   
+¯~  \y   
+¡'  ]	B  
+€I  ^ Y  ˆ 
+ú  R  R  	€    
+X  
+¥    z‡  
+h  {‡   
+9  |y    
+0   24   ž   _p Ÿ‡   _r   y   _w ¡ y   
+UX  ¢	7   
 
+  £	7   _bf ¤_  
+‚~  ¥ y   
+An  §H     $  `yH  B  } y    Ü*  ‚
+¥   *  ‚¥   3W  ‚¥   Ÿ&  „y   ³H  †	´  ï?  ˆ y   <#  Š y   Ä  ‹
+	   _mp 	  $”F  
+$	  (L  ‘ y   ,¹  ” y   0ì6  •	´  4%m  —*	  8¿  ˜0	  <•  ™	´  @75  œA	  DÅŠ  ¤f   H·  ¥
+¥   Tˆ  ¦M	  XáC  §	´  \ 
+  H  ç?  hº–  _p »‡   _r ¼ y   _w ½ y   
+UX  ¾	7   
+
+  ¿	7   _bf À_  
+‚~  Á y   
+An  ÄH  
+â3  È
+u   
+T_  ÊÆ  $
+ú  Ìõ  (
+†`  Ï
+   ,
+,(  Ð	3   0_ub Ó_  4_up Ô‡  <_ur Õ y   @
+ãV  Ø9   D
+&  ÙI   G_lb Ü_  H
+¿g  ß y   P
+Ó6  à
+³   T
+Þ  ç¦  X
+µW  éi  \
+kQ  ê	y   d y   ´  H  u  ´  y    
+º  A'  º  
+–  y   ê  H  u  ê  y    
+Á  ê  
+Ì        H  u     y    
+û  y   3   H  u   
+   0   I   	€    0   Y   	€     Ðk  $S  ]N  (Ÿ   ím  *Ÿ    Ö+  + y   e7  ,
+¥    
+f   
+Y   ‘e  Dò    `  Eò       Fò   –…  G>   "X  J$f    >     	€    ]  ]I  ƒ  `   ‹  a y   µ>  b  áM  cI   
+  K  Pgø  ³i  j	´   Ùt  ki  W  li   b  mi  ×	  nø  w  o y   $÷  pi  (j  qi  0ø‡  ri  8‡U  si  @Y	  ti  H º  	  	€     ´  
+	  
+  $	  H   
+	  
+«   
+"  A	  y    
+G	  
+6	  
+O  Æ  Ï"   $Q  Ð"   B  Ñ"   =  3H  \  4N  ®  F<  
+
+   *m   Ô`  /Õ	  
+Y  0	¡	   
+¡w  1 E    ·J  	a›   ñ€  	f§    c  	kX   ð=  	‹ã   ù[  	û   @   	¡¿     	¥Ë   çp  	©×   Ýj  	½ï   F   	Âw  m.  
+šE   ¥Œ  
+›y   ´  u
+  	€    ÿ2  
+že
+  ›  X
+E
+  
+Œ`  
+
+
+   
+˜Š  
+
+ù	  
+q€  
+
+5
+  
+ð[  
+ 
+A
+  
+]  
+!
+
+  
+
+¸:  
+"
+)
+  
+Ä!  
+#
+
+  
+  
+$
+
+  
+·Ž  
+*­	  
+Ï	  
++­	  (
+Ü   
+,­	  8
+  
+-á	  H
+E  
+.Õ	  L
+z  
+0	E
+  P E   U
+  	€    àx  g´  ð  l
+   a
+  qz  
+$l
+  ;  
+y   tms Ë
+  
+ 1  
+í	   
+ª/  
+í	  
+RN  
+í	  
+•c  
+í	   ´  Û
+  	€     ‰T  ( Ë
+      Š   )ÿ
+      
+´   )  ˜y       "   œM  !&s  ˜´  ‘t!kF  ˜ ÿ
+  ‘p"env ˜-ÿ
+  ‘l #¥N  ’y          œ )  Œy           œœ  "old Œ´  ‘t"new Œ´  ‘p $R‚  †y           œÔ  !1  †´  ‘t"st †$Ô  ‘p 
+
+  $š'  y          œ
+  "buf 
+  ‘t 
+‰
+   q  {y          œ4
+  !&s  {´  ‘t  ®  uy          œ^
+  !d  u^
+  ‘t 
+y   $8}  oy          œž
+  !^  o´  ‘l!,  oy   ‘t% $	ˆ  jy          œæ
+  !1  jy   ‘t"ptr jy   ‘p"dir j#y   ‘l $   ey          œ  !1  ey   ‘t $ãn  _y           œH  !1  _y   ‘t"st _#Ô  ‘p $,(  Yy          œr  !1  Yy   ‘t  ú  Ny       8   œÉ  !1  N&y   ‘l"ptr N2´  ‘h"len N;y   ‘d&¤(  Py   ‘t  T_  By       :   œ   !1  B%y   ‘l"ptr B1´  ‘h"len B:y   ‘d&¤(  Dy   ‘t 'sQ  <       œF  !d  <y   ‘t  Ý_  6y           œ  "pid 6y   ‘t"sig 6y   ‘p (Ì!  1y          œ)d  -       œ %
+U™B  $ 
+
+>
+   :
+;
+9
+I  $ 
+
+>
+   :
+;9
+I  
+
+:
+;
+9
+   
+ :
+;
+9
+I  I  	! I/
+  
+
+
+:
+;
+9
+  
+
+ :
+;
+9
+I8
+   
+
+  
+ 
+
+I   <  
+
+:
+;
+9
+  
+ :
+;
+9
+I8
+  
+:
+;
+9
+  
+ :
+;
+9
+I8   '  & I  
+
+:
+;9
+  
+ :
+;9
+I8
+  
+ :
+;9
+I8
+  'I   I  '  4 :
+;9
+I?<  4 :
+;
+9
+I?<  !   
+
+:
+;
+9
+  4 :
+;
+9
+I?   .?:
+;
+9
+'I@–B  ! :
+;
+9
+I  " :
+;
+9
+I  #. ?:
+;
+9
+'I@–B  $.?:
+;
+9
+'I@—B  %   &4 :
+;
+9
+I  '.?:
+;
+9
+'‡@–B  (. ?:
+;
+9
+'I@—B  ). ?:
+;
+9
+@—B   ¤                                              :       8                                                                                       "                                            :       8                                                                                       "                      
+
+Ž  dO  
+b            
+{{                      	
+l>  
+
++¦ˆ  -     /          
+‚S            ·X            "          ÷                              	     .     1Gt            2zA  'r        #h\  &%¡V                 ßÖŠ             à!äÎi   "\            X|  
+          #¤&  $          %     	
+     &     $     '2  ('          O(          )QŠ  *          +     ¾, ¯Œ      –V   §?   ¹T   Â    ú
+   Ž?   ›n   d   |ƒ   7w   T"   †;   D   +Œ      g   ‚   ì   ~   æg   Ô    ¹   ´&   Ýr   M   •\   Ëb   Ö   X   ÊN   éV   Š   ½   €/   ù&   –U   Óo   Gn   f      !       ‰	   NŒ   îL   W   
+   Ï€   >   Ÿ   w…   éa   sŽ   ,   ™e   »n   C      Be   yQ   „   ¦@   Zƒ   ’    Â'   Äq   êq   q<   á-   Ì
+   T   ¼c   \Ž   ]t   4^   J   øG   û„   –„   ¼   Ã‡   a@   öW   å{   &G   àI   ŸŠ   Ž      X„   !   ù   ”   r   €F   Áw    3   å|   ö=   f{   `A   ÅE   5*   –Ž   —D   
+7   ;   Z_   …   ,   íŠ   l4   tN   ²   Í   ºA   \s   ‹=   ëi   z	      ®u   î<   3.   ,b   ýB   ]   ¢T   g   q   6"   $€   I   "   ‘      ¯   J   b   mJ   o   ´!   ?   ‘S   *@   R   ÝH   \D   DS   R   |c   Ø   9!   
+   8G   &   Á.   {,   û   ¤=   }Y   Œ3   º   Er   »_   ‹Œ   &$   ¢   z   ³…   )„   =   5Q   "+   ã
+   Ïp   4	   
+„   Á    4Y   p*   ãP   b    ø~   ¦,   ¨   QC   ˜E   ø`   Ú1   ¡I   kB   v`   8   §[      
+   N    r   .1   ñN   –B   z   íH   V1      ßw   »„   Ö   ×   ïK          á	   2L   }   ä    -S   ¿   ŠC   Š   V   þ   on   Y<   A2   q   Ìl   ÀJ   OY   ç    DD   Ò   •   0\   ì(   ú?   H   2   ì   O   c   ÌU   Ø   Æy   m   Ì„   A5   >X   è   Eq   Cs   `!   Á    ¹$   œ   ‡ˆ   =p   hŠ   l   Œ6   )   h)   Ë
+   r5   ,   Wb   á   š!   Û@   }P   ._   ™   õM   °   
+M   h_   ,   _V   Z   ¸   Î   }i   îy   Tr   õ…   #‚   ã   q   2Š      WF       l   9~   ¿Ž   9d   oe   ©q   ê‚   w0   uR   Ê\   +   ±p   §   …t   ia   Ò=   Ñƒ   fG   *m   43   åU   RS   `   +   9   æe   EI   ~z   ¨c   yH   “h   ìƒ   -n   Ç@   m   Ÿ6   >   Â%   ­}   ü   @R   Ðc   ‚|   {m   h‡   O0   û       ÿc   Ài   œ$   v   xU   6H   Š   öd   Æ   Œn   P   ³D   lf   l   B(   TJ   ¬l   Ì>   ÿ+   $‹   G   ]   …    £ƒ   “X   F'   S   /v   ·   }   r   ô6   ²ƒ   žv   [   —
+   V'   5a   bI   ¸Y   ¤C   ?`   :   0   ño   [H   J   œ|   $;   a   …>   Ý&   7M   ›~   V   Um   E;   èE   ¹a   ½~   Ö]   Â}   û€   ™;   @_   2I   ãT   ¾‰   Z;   žo   ö{   ·Z   B<   ÛL   *    [   Xˆ   ¾H   ñc   †   µ%   Gm   •/   
+^   0†   Ö   BJ   ?ƒ   w?   ÿ[   á   Œp   ?   »4   ï   
+   Ý)   O   V   ÷R   k   m   {2   ÎV   “€   rw   ¦   ×~   =m   y   #   6]   “`   ²F   s@     EH  &     ñQ  	€b     ">N  %ƒ  +È+  5qs  9H  <  ?žL  B  Q*w  T»=  \;  _tx     MÛX  Ù›W  Üp1     z&  !E  (>}  ƒÙ  „MB  ˆ™?  ‰Jƒ  Š„  ‹t  ž©:  Ÿ”N  ÷5  ýmM  …)d  ŠÛ[  •W  ™ö0  Ÿ	  ¯”   ¿H|  Ê#E     àÓZ  æ  ê>]  úƒW  þ\X  …g"  ‹  ˜î     gZ   x-  !*O  %×  +Jw  E˜0  I"  Jùp     z\  «N  g  !/z  /¡>  =H*  SzL  mã`  Œ´V  ¦Í  ¼±U  ÎN  ôÝ`     'u  (z_  *pF  ƒJ  „~E  …lU  †éd  ‡K  ˆÛ6  ‰÷  Šá\  ‹~X  ›Ýy  µX  ¶ä  ·+  ¸ÿ  ¹ @  º©  »Ó_  ¼ËH  ½Ïj  ¾ÃQ  ¿>  Àt   Á
+  ÂÂ[  Ã{  Ä˜1  Ë
+  çŠ0  „É]  …Ø{  †»0  ‡¹  ˆ“2  ‰L  Š"k  ‹I3  Œ/  {h  Ž[  :  »l  ‘«a  ’oS  Ÿ‚  Ô)  †‹&  ‹\  ‘ºI  –ÅB  ›np     1O!  2c  3Í-  6Ç  9  :[…  <K@  =|  >Q   ?’z  B  Cp
+  Díp  N  Qx=  Wæt  ^Za  _:t  k(  lª-  pàD  q+s  r	   u*  x…%  Â/  €æ
+  T€  …[L  Œ ‡  ñ\  ‘!  ”ºP  —ñb  ˜¯+  ™v  ›öD  œn;  ž6‚   Œ  ±þ  ²ˆ  ³¼  ´ ^  µó.  ·åF  ¸\f  ¹£X  æ@)  ó  ôz}  õM  ö)  ÷fŒ  ø¢	  ùK=  üóF  ý¡1  ƒÙ  Ü )  î‰A  ôuZ  õ«2  üˆ  ‚¬(  ˆE‰  ‰C?  ¹v  ‘
+|  ˜Ö,  žZ~  ²X‚  Ós  Ô7Z  ÛãA  Üã*  ßŽ  éÛ>  ê”x  ô"j  Š?v  Œ‘  ŽÂ†    ‘3‹  ›
+`   Ö}  ¥  ¨yG  ¬Èu  ®c#  Ñ]0  Õsr  ÙÁ  Ý¾W  á_  åá%  é•{  í¡‹  ôÐF  õI	  ö®.  ÷ÆC  øÁL  q^  Ž‡   w  ¦‡s  ©O  «¯;  ¯½h  ±¿:  µFW  ¸y  ºÍŒ  ¾à  À--  ÂA  Æäj  ÉPu  Êu     €  3(  Ü‡     ›Ýy  çŠ0  Ô)  Ù
+(  àU#  †‹&  ‹\  ‘ºI  –ÅB     èb  ’<  ”¬t  ³æ  »Kl  Àdl  Å¢A     1  €p     +  # P  %>  'óm  *-  ,é‹  .9‡  0ñX  2˜b  4Ô‰  6h  87+  ;Ä  =¾     M‹~  `?4  me  ¯[  ½%p  ¾ÉM  ¿fX  À›…  Á»o  ÂËT  Ãq‰  Ï%  Ð`  ÑÎ  Óª  í¾z     
+fM  -%  ²M  -?f     øT]  ‚  ‹O
+  @k  ”Ú   Ÿÿw  ¢Kd  ¨£5  «üE  ®k7  Ä÷T  Ç%g  Ê'  ËBi  Ì	H  ÍÂK  Î1  Ïj„  Ð+…  Ñ„-  Òl  Ó…4  ÔÀ?  Õè)  Ö07  ×ñr  Øw.  ÙV  Ú/  Ûê4  Üc  Ý    Þ3
+  ß®r  àBc  áš   ¹^  ¨ü  °‡w  À]*  Ã  ÇÂD     3(  2B     ›Ýy  çŠ0  Ô)  †‹&  ‹\  ‘ºI  –ÅB     p(        rO  Î     (¾  ,.     
+"B  ´y  Óg  ä  !ò3  %=  'ƒ@  -ñ  1®j  3í/  9²Š  =‘Q  ?x3  DÒe  IZe  N®  SGh     ¼F   †  !‹  &†+     	ð  
+}M  ­\  0  Š  4  AE  	-  µt  9"  :(i  ;b  <E\      =0  &]q  +û]  ,,N  1!.     )‹f  .!y     ö;  O  âv  #>  %D  .—t  07,  1‘  2?  3¶s     30e  4!%  8d|  =Ð|  H,   L‡q  P:  TJŽ  V
+S  búf  gX3  lùg  m¤  x¸
+  |ã0  ‚4  ‡Âe  Œ¥Q  ž{6  ¢ì"  ¦àQ  ªŒl  ¯"
+  ´Q  ¹[p  ¾¦  Ã<
+  ÈKA  Éæ„  Î”[  Ï±#  ÔÖ(     ¬n  #ý'  &‹E  ']Š     $)  %Ša  (ä  +Ö  .åZ  /á  ¬†*  ²¡  Å¥      ¢—@  ðÆ  ñê]  õ”i  ø>   ÿk2  ‡\h     6©w  7  8h/  =|  >v>  ?/  @¤i  A{'  BÅ0  C1  D¯  Fšq  HÌ2  I$^  JÀ|  LÂ  M²‡  Nd  O>Œ  Rî  SÊ‚  Tö@  Uþ  Vý|  W1R  XÿZ  YÔ0  hðv  i½Œ  j°€  k  l~(  mP  nu   o—m  pûx  qÜ"  rAC  sL  v§m  w3  xÔ!  {Ü2  |ÿ
+  } ?  ~I.  øk  €•Y  
+     
+3(  Š'  2B     €  
+XV  ã_     8¦`  <k}  =¨  ?E  CL  ¨À€     7D       	î'  ì  |  e   p  !,  "Œx  #ƒ  ${  %ÕH  &ð  's6  (ÆI  )æ+  *\G  +bP  ,ƒ  0_\  1eE  27)  3w‡  4ØW  5×%  6[^  7õw  8“  9ÀN  :¹  ;KJ  <   =É6  >   ?þ$  @ð  Aê3  Bl`  C-M  D   O4ƒ  PNˆ  [  \ÕQ  ]®J  ^´~  dè.  j­Z  kÔ  pž  qhb  |’$  €¬  ”  ‚©F  ƒ¦'  „¼
+  …’I  †D  ‡Ù‚  ˆð+  ‰ák  ŠzC  ŽP(  oE  @  ‘Í&  ’ü  “¦„  ”å  •Ò4  –}
+  —™ˆ  ˜	Z  ™¬$  š#5  žV/  Ÿ J   °  ¡8‰  ¢-X  §g  ¨tq  ©_B  ±„  ²„  ³Q  ´ªz  µa(  ¹ãW  »im      m  ÷l  !3(  "2B     "¡‡  '[2     /Øq  C¥%     Œr  
+„  ;$     QˆB  RÆ`  Sn  TÂj  VÖP  WQ  X2  Yd  ZŸZ  [/  \±g  ]´/  ^´'  _‰m  c¡+  f}f  gß/  rY   sy|  t=  v½`  {|  ùt  ‡Ü<  {  ‘ÐI  •Ö-  ˜„  ›Èg  žˆR   
+  ¡I  ¢nˆ  ¤LM  ¥x[  ¦À*  ®i  éf   ëÄ#  Žƒ"  «  Ï4O  Ð?z  Ñ™<  Òó  ÿpD  €ÞY  †
+6  ŽÞi     &  ë‡   vt  #0`  >Ò<  ?  @œ  A
+<  B®v  uj  ˆêx  ‹?B  ‘é  ’û   (]  ¡#  ¢rb  Åu  Æ¼  ÇI  Èò1  Éý"  ”ÍŠ  •lR  –×k  —    ˜¡a  ™n?  š´‰  ›3#  œI  Ì,  ž
+  ŸbJ   6k  ¡ó  ¢¬Ž  £/  ÎëM  ÏžF  Ð
+m  Ñri  Òcˆ  Ó¬s  ÔÌ  Õe  ÖtP  ×p  Øa`  Ù!b  Ú¢  ÛÙ  Üb  ÝÚF  Þm3  ß;W  àlP     ûP  Îa  Ñm     (~l  8ð  98J  :   ;]  <¾u  =îk  >  „l‚  …d  †“R  ‹ 0  ŒíC  (  Ž'<  üŠ  _  ÙB&  Ú†_  Û<†  à§S  éëJ  õø  ö˜‚  ÷µˆ  û(
+  „’O  ”32  •ÊX  –    ù    Ì  û
+      ../Src c:\st\stm32cubeide_1.7.0\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346\tools\arm-none-eabi\include\machine c:\st\stm32cubeide_1.7.0\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346\tools\lib\gcc\arm-none-eabi\9.3.1\include c:\st\stm32cubeide_1.7.0\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346\tools\arm-none-eabi\include\sys c:\st\stm32cubeide_1.7.0\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346\tools\arm-none-eabi\include c:\st\stm32cubeide_1.7.0\stm32cubeide\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.9-2020-q2-update.win32_2.0.0.202105311346\tools\arm-none-eabi\include\newlib-nano  syscalls.c   _default_types.h   stddef.h   _types.h   reent.h   lock.h   _timeval.h   _timespec.h   types.h   time.h   stat.h   stdlib.h   errno.h   times.h   _ansi.h   newlib.h   _newlib_version.h   config.h   ieeefp.h   features.h   cdefs.h   _types.h   assert.h   time.h   _stdint.h   endian.h   _endian.h   select.h   _sigset.h   timespec.h   _pthreadtypes.h   sched.h   types.h   _locale.h   stdlib.h   alloca.h   errno.h   stdio.h   stdarg.h   stdio.h   signal.h   signal.h   time.h   _time.h         -/      1	/!      6Y<	//      <K Y      Â i. "  <
+ <* , <O!      Î i. " <  * : <	N!      Ù 	K/      ß Y	K!      å 	K!      ê 	g!      ï 	Z/       õ K<	//      û K<	//      	K/      †Y	K!      ŒY<	//      ’/<	//      ˜g<	// SIGILL 4 __GNUCLIKE___SECTION 1 _REENT_WCRTOMB_STATE(ptr) ((ptr)->_misc->_wcrtomb_state) _IOFBF 0 __DECIMAL_DIG__ 17 S_IWGRP 0000020 __UHA_FBIT__ 8 __SVID_VISIBLE 1 _PTHREAD_ONCE_INIT { 1, 0 } __DEC128_EPSILON__ 1E-33DL st_ctim __FLT64_DENORM_MIN__ 4.9406564584124654e-324F64 __dead2 __attribute__((__noreturn__)) __GCC_ATOMIC_WCHAR_T_LOCK_FREE 2 __CHAR_UNSIGNED__ 1 __UINTPTR_MAX__ 0xffffffffU _PDP_ENDIAN 3412 __SFRACT_FBIT__ 7 _wait __locale_t __FLT64_HAS_INFINITY__ 1 __value __requires_exclusive(...) __lock_annotate(exclusive_locks_required(__VA_ARGS__)) _REENT_RAND48_ADD(ptr) ((ptr)->_r48->_add) NULL ((void *)0) __LLACCUM_MIN__ (-0X1P31LLK-0X1P31LLK) ENAMETOOLONG 91 _CLOCK_T_DECLARED  __sf __PTRDIFF_MAX__ 0x7fffffff _LONG_DOUBLE long double EPIPE 32 __INTMAX_C(c) c ## LL __sbuf st_blksize __INTMAX_MAX__ 0x7fffffffffffffffLL st_blocks __DEC32_SUBNORMAL_MIN__ 0.000001E-95DF __TQ_IBIT__ 0 EILSEQ 138 __FLT64_DECIMAL_DIG__ 17 __LDBL_MIN__ 2.2250738585072014e-308L _REENT_SIGNAL_SIZE 24 PTHREAD_INHERIT_SCHED 1 _Kmax (sizeof (size_t) << 3) __ATOMIC_CONSUME 1 __LFRACT_MIN__ (-0.5LR-0.5LR) __WCHAR_MAX__ 0xffffffffU bintime_isset(a) ((a)->sec || (a)->frac) __sgetc_r(__ptr,__p) __sgetc_raw_r(__ptr, __p) __CONCAT(x,y) __CONCAT1(x,y) _DEFAULT_SOURCE SS_ONSTACK 0x1 timerclear(tvp) ((tvp)->tv_sec = (tvp)->tv_usec = 0) __lock_init(lock) __retarget_lock_init(&lock) _WCHAR_T_H  EDQUOT 132 signed char __SIZEOF_LONG_LONG__ 8 _asctime_buf __DBL_MAX_10_EXP__ 308 _cvtlen __RCSID_SOURCE(s) struct __hack __FRACT_MIN__ (-0.5R-0.5R) ENETDOWN 115 __POSIX_VISIBLE 200809 DST_AUST 2 __USACCUM_MAX__ 0XFFFFP-8UHK __DEC32_MIN__ 1E-95DF path _REENT_MBSRTOWCS_STATE(ptr) ((ptr)->_misc->_mbsrtowcs_state) __SQ_IBIT__ 0 _global_atexit __SIZE_TYPE__ unsigned int __DEC64_MAX_EXP__ 385 S_IFMT _IFMT __FLT_HAS_DENORM__ 1 __INT8_TYPE__ signed char __ARM_ARCH_PROFILE 77 dev_t nlink_t __FLT32_DECIMAL_DIG__ 9 fropen(__cookie,__fn) funopen(__cookie, __fn, (int (*)())0, (fpos_t (*)())0, (int (*)())0) __LDBL_MIN_EXP__ (-1021) _REENT_INIT_RAND48(var) do { struct _reent *_r = (var); _r->_r48->_seed[0] = _RAND48_SEED_0; _r->_r48->_seed[1] = _RAND48_SEED_1; _r->_r48->_seed[2] = _RAND48_SEED_2; _r->_r48->_mult[0] = _RAND48_MULT_0; _r->_r48->_mult[1] = _RAND48_MULT_1; _r->_r48->_mult[2] = _RAND48_MULT_2; _r->_r48->_add = _RAND48_ADD; _r->_r48->_rand_next = 1; } while (0) __LDBL_MANT_DIG__ 53 _Nullable  __tm _wcsrtombs_state wint_t __tm_sec __UINT8_C(c) c __INT16_TYPE__ short int __aligned(x) __attribute__((__aligned__(x))) st_mtim _l64a_buf __FLT64_MAX__ 1.7976931348623157e+308F64 time_t stdin (_REENT->_stdin) timeradd(tvp,uvp,vvp) do { (vvp)->tv_sec = (tvp)->tv_sec + (uvp)->tv_sec; (vvp)->tv_usec = (tvp)->tv_usec + (uvp)->tv_usec; if ((vvp)->tv_usec >= 1000000) { (vvp)->tv_sec++; (vvp)->tv_usec -= 1000000; } } while (0) S_ISCHR(m) (((m)&_IFMT) == _IFCHR) _PID_T_DECLARED  _REENT_WCSRTOMBS_STATE(ptr) ((ptr)->_misc->_wcsrtombs_state) __unbounded  EINPROGRESS 119 SIGBUS 10 __GCC_HAVE_SYNC_COMPARE_AND_SWAP_1 1 EPFNOSUPPORT 96 __GXX_ABI_VERSION 1013 __DBL_HAS_INFINITY__ 1 __STDC_HOSTED__ 1 __ULLFRACT_FBIT__ 64 __SIG_ATOMIC_TYPE__ int _size FD_ISSET(n,p) ((p)->fds_bits[(n)/NFDBITS] & (1L << ((n) % NFDBITS))) __INT_FAST64_TYPE__ long long int __ARM_FEATURE_COPROC 15 __BIT_TYPES_DEFINED__ 1 _fnargs _lock __SIZE_T__  ENOEXEC 8 _write __FLT32_MAX_10_EXP__ 38 __UINT16_TYPE__ short unsigned int _NLINK_T_DECLARED  _REENT_CHECK_TM(var) _REENT_CHECK(var, _localtime_buf, struct __tm *, sizeof *((var)->_localtime_buf), ) __daddr_t_defined  __USFRACT_MAX__ 0XFFP-8UHR __GNUCLIKE_BUILTIN_STDARG 1 __FP_FAST_FMAF32 1 SI_QUEUE 2 EIDRM 36 __need_wchar_t __FLT32_MIN_EXP__ (-125) ECANCELED 140 SBT_MAX 0x7fffffffffffffffLL __errno_r(ptr) ((ptr)->_errno) stat _mult _MODE_T_DECLARED  __ULFRACT_FBIT__ 32 SIGTTIN 21 __FLT64_MIN_10_EXP__ (-307) __sfileno(p) ((p)->_file) __size_t  __bounded  __INT_FAST64_WIDTH__ 64 ___int_wchar_t_h  S_IXOTH 0000001 _SYS__LOCALE_H  __SFRACT_EPSILON__ 0x1P-7HR __CONCAT1(x,y) x ## y EBADMSG 77 _T_SIZE  __INT32_C(c) c ## L __USQ_FBIT__ 32 __ORDER_BIG_ENDIAN__ 4321 DST_NONE 0 __SQ_FBIT__ 31 S_ISSOCK(m) (((m)&_IFMT) == _IFSOCK) __SSTR 0x0200 _UINT16_T_DECLARED  _KEY_T_DECLARED  __ntohl(_x) __bswap32(_x) _IFMT 0170000 __UHQ_FBIT__ 16 _REENT_SIGNAL_BUF(ptr) ((ptr)->_signal_buf) CLOCK_ENABLED 1 __FLT64_MIN_EXP__ (-1021) _QUAD_HIGHWORD 1 __PTRDIFF_WIDTH__ 32 __weak_reference(sym,alias) __asm__(".weak " #alias); __asm__(".equ " #alias ", " #sym) __SRD 0x0004 L_tmpnam FILENAME_MAX __UINT_FAST8_MAX__ 0xffffffffU EISCONN 127 sigdelset(what,sig) (*(what) &= ~(1<<(sig)), 0) __DEC32_EPSILON__ 1E-6DF __has_extension __has_feature DEBUG 1 __LACCUM_IBIT__ 32 _SIZE_T_DEFINED  _SYS_TYPES_FD_SET  __NEWLIB_H__ 1 __INT_FAST16_WIDTH__ 32 __dev_t FD_CLR(n,p) ((p)->fds_bits[(n)/NFDBITS] &= ~(1L << ((n) % NFDBITS))) __VFP_FP__ 1 __LLFRACT_MIN__ (-0.5LLR-0.5LLR) uid_t _file __RAND_MAX __UINT_FAST16_MAX__ 0xffffffffU _on_exit_args stdout (_REENT->_stdout) __INTPTR_MAX__ 0x7fffffff __attribute_pure__  _REENT_CHECK(var,what,type,size,init) do { struct _reent *_r = (var); if (_r->what == NULL) { _r->what = (type)malloc(size); __reent_assert(_r->what); init; } } while (0) _sys_nerr __GNUC_PREREQ(maj,min) ((__GNUC__ << 16) + __GNUC_MINOR__ >= ((maj) << 16) + (min)) __UFRACT_MIN__ 0.0UR _INTPTR_T_DECLARED  S_IREAD 0000400 __FLT32X_HAS_INFINITY__ 1 errno (*__errno()) _SYS_SIZE_T_H  DST_CAN 6 __error_t_defined 1 __UINT_LEAST8_TYPE__ unsigned char __locks_exclusive(...) __lock_annotate(exclusive_lock_function(__VA_ARGS__)) SI_TIMER 3 __ACCUM_FBIT__ 15 ETXTBSY 26 __lock_release(lock) __retarget_lock_release(lock) _mbrlen_state long int st_size _GLOBAL_REENT _global_impure_ptr __wch _impure_ptr __INT_FAST64_MAX__ 0x7fffffffffffffffLL __FLT32X_DECIMAL_DIG__ 17 _result_k __FLT32X_HAS_QUIET_NAN__ 1 __UFRACT_EPSILON__ 0x1P-16UR ___int_least16_t_defined 1 __DEC128_MIN_EXP__ (-6142) S_IXUSR 0000100 _LDBL_EQ_DBL 1 _NOINLINE __attribute__ ((__noinline__)) _PTRDIFF_T_  __size_t__  __SMBF 0x0080 __UINTMAX_C(c) c ## ULL __SIZEOF_POINTER__ 4 __INT_LEAST8_TYPE__ signed char _localtime_buf CLK_TCK CLOCKS_PER_SEC EHOSTDOWN 117 SIGPIPE 13 S_IFBLK _IFBLK __ARM_NEON__ __FLT32_MAX_EXP__ 128 BIG_ENDIAN _BIG_ENDIAN __TA_FBIT__ 63 __THUMB_INTERWORK__ 1 __ULLFRACT_MAX__ 0XFFFFFFFFFFFFFFFFP-64ULLR _fntypes _PTHREAD_COND_INITIALIZER ((pthread_cond_t) 0xFFFFFFFF) SIGPROF 27 __int8_t_defined 1 ___int_ptrdiff_t_h  _SIZE_T_DECLARED  __CHAR32_TYPE__ long unsigned int __ARM_FEATURE_FP16_VECTOR_ARITHMETIC S_IEXEC 0000100 _POSIX_C_SOURCE 200809L __CC_SUPPORTS_DYNAMIC_ARRAY_INIT 1 __UINT_FAST32_MAX__ 0xffffffffU __tm_mon __FLT_MAX_EXP__ 128 __SIZEOF_LONG__ 4 __P(protos) protos __strfmonlike(fmtarg,firstvararg) __attribute__((__format__ (__strfmon__, fmtarg, firstvararg))) ../Src/syscalls.c SEEK_CUR 1 _READ_WRITE_BUFSIZE_TYPE int ENOTEMPTY 90 __SIZEOF_DOUBLE__ 8 __INT_LEAST32_WIDTH__ 32 _CLOCK_T_ unsigned long __FLT32X_MIN_EXP__ (-1021) ENOSTR 60 SIG_BLOCK 1 SIGTERM 15 __u_int_defined  _misc_reent __LARGEFILE_VISIBLE 0 __DEC64_MAX__ 9.999999999999999E384DD EMFILE 24 __NEWLIB__ 3 _REENT_INIT(var) { 0, (__FILE *)&__sf_fake_stdin, (__FILE *)&__sf_fake_stdout, (__FILE *)&__sf_fake_stderr, 0, _NULL, 0, 0, _NULL, _NULL, _NULL, 0, 0, _NULL, _NULL, _NULL, _NULL, _NULL, _REENT_INIT_ATEXIT {_NULL, 0, _NULL}, _NULL, _NULL, _NULL } _isatty EXIT_SUCCESS 0 __UTA_FBIT__ 64 __ASMNAME(cname) __XSTRING (__USER_LABEL_PREFIX__) cname ENOSPC 28 __FLT_DECIMAL_DIG__ 9 EROFS 30 _link _IFCHR 0020000 __UINT64_TYPE__ long long unsigned int EPERM 1 __blksize_t __asserts_exclusive(...) __lock_annotate(assert_exclusive_lock(__VA_ARGS__)) __sf_fake_stdin PTHREAD_EXPLICIT_SCHED 2 __ARM_FEATURE_FMA 1 __ptr_t void * _HAVE_LONG_DOUBLE 1 _nbuf __FRACT_FBIT__ 15 __LLACCUM_EPSILON__ 0x1P-31LLK st_uid __GNUC_PATCHLEVEL__ 1 st_spare4 _flockfile(fp) (((fp)->_flags & __SSTR) ? 0 : __lock_acquire_recursive((fp)->_lock)) __alloc_align(x) __attribute__((__alloc_align__(x))) __UINT_LEAST16_MAX__ 0xffff _stdout __need___va_list  ENOBUFS 105 S_IRGRP 0000040 __LACCUM_FBIT__ 31 __predict_true(exp) __builtin_expect((exp), 1) SIGVTALRM 26 _IFIFO 0010000 __lock_release_recursive(lock) __retarget_lock_release_recursive(lock) __FLT64_MAX_10_EXP__ 308 ITIMER_PROF 2 __u_char_defined  CLOCK_DISALLOWED 0 __attribute_format_strfmon__(a,b)  _BSD_SIZE_T_DEFINED_  environ __UINT_FAST32_TYPE__ unsigned int unsigned char __STDC_UTF_32__ 1 __SIZEOF_FLOAT__ 4 __FLT32X_DENORM_MIN__ 4.9406564584124654e-324F32x __GNUCLIKE_MATH_BUILTIN_RELOPS  __FLT_MAX_10_EXP__ 38 __PMT(args) args __DEC128_MAX__ 9.999999999999999999999999999999999E6144DL __FRACT_MAX__ 0X7FFFP-15R __GCC_IEC_559 0 st_rdev _getpid DEFFILEMODE (S_IRUSR | S_IWUSR | S_IRGRP | S_IWGRP | S_IROTH | S_IWOTH) __htonl(_x) __bswap32(_x) __INT_FAST32_MAX__ 0x7fffffff __ATOMIC_SEQ_CST 5 _READ_WRITE_RETURN_TYPE int __sgetc_raw_r(__ptr,__f) (--(__f)->_r < 0 ? __srget_r(__ptr, __f) : (int)(*(__f)->_p++)) S_IROTH 0000004 _DEV_T_DECLARED  sigismember(what,sig) (((*(what)) & (1<<(sig))) != 0) SIGEMT 7 _unspecified_locale_info __need_wint_t __sym_default(sym,impl,verid) __asm__(".symver " #impl ", " #sym "@@" #verid) _TIMER_T_DECLARED  fwopen(__cookie,__fn) funopen(__cookie, (int (*)())0, __fn, (fpos_t (*)())0, (int (*)())0) _reent __DBL_MAX_EXP__ 1024 _funlockfile(fp) (((fp)->_flags & __SSTR) ? 0 : __lock_release_recursive((fp)->_lock)) ENOSYS 88 __TQ_FBIT__ 127 EMSGSIZE 122 __DEC128_SUBNORMAL_MIN__ 0.000000000000000000000000000000001E-6143DL EMLINK 31 _REENT_EMERGENCY_SIZE 25 quad quad_t assert(__e) ((__e) ? (void)0 : __assert_func (__FILE__, __LINE__, __ASSERT_FUNC, #__e)) __GNUCLIKE_BUILTIN_CONSTANT_P 1 __FILE_defined  __thumb2__ 1 __ULLACCUM_FBIT__ 32 EISDIR 21 __DECONST(type,var) ((type)(__uintptr_t)(const void *)(var)) __FLT_MIN__ 1.1754943508222875e-38F timespecclear(tvp) ((tvp)->tv_sec = (tvp)->tv_nsec = 0) _SYS_FEATURES_H  NULL _SYS_SIGNAL_H  _inc _MACHSTDLIB_H_  __SIZEOF_LONG_DOUBLE__ 8 ENETUNREACH 114 __PRAGMA_REDEFINE_EXTNAME 1 __WCHAR_TYPE__ unsigned int _REENT_SIGNGAM(ptr) ((ptr)->_gamma_signgam) char __USA_IBIT__ 16 __GCC_HAVE_SYNC_COMPARE_AND_SWAP_2 1 _IFREG 0100000 __need_wchar_t  _times _fns EOPNOTSUPP 95 __SOFF 0x1000 __UINT_FAST64_TYPE__ long long unsigned int _SYS_ERRNO_H_  SCHED_OTHER 0 _WINT_T  SBT_1MS (SBT_1S / 1000) _close __need_size_t  __HA_FBIT__ 7 ECONNREFUSED 111 EOWNERDEAD 142 _MACHTIME_H_  S_IRWXG (S_IRGRP | S_IWGRP | S_IXGRP) DataIdx __noinline __attribute__ ((__noinline__)) _USECONDS_T_DECLARED  __DEC32_MIN_EXP__ (-94) _execve __USFRACT_IBIT__ 0 PTHREAD_SCOPE_PROCESS 0 EXDEV 18 __weak_symbol __attribute__((__weak__)) __USFRACT_MIN__ 0.0UHR __used __attribute__((__used__)) __generic(expr,t,yes,no) _Generic(expr, t: yes, default: no) __ARM_NEON _REENT_EMERGENCY(ptr) ((ptr)->_emergency) __GNUCLIKE_CTOR_SECTION_HANDLING 1 __UINT8_MAX__ 0xff ___int16_t_defined 1 _REENT _impure_ptr __LDBL_MAX_EXP__ 1024 _PTHREAD_MUTEX_INITIALIZER ((pthread_mutex_t) 0xFFFFFFFF) _stderr_r(x) ((x)->_stderr) _stdin __exported __attribute__((__visibility__("default"))) _SIZE_T  __DBL_HAS_DENORM__ 1 __lock_try_acquire_recursive(lock) __retarget_lock_try_acquire_recursive(lock) _BYTE_ORDER _LITTLE_ENDIAN __SL64 0x8000 __CC_SUPPORTS___INLINE 1 _MB_LEN_MAX 1 _niobs __mode_t EAGAIN 11 EPROTOTYPE 107 __DA_FBIT__ 31 flags ESRCH 3 __INT_LEAST16_MAX__ 0x7fff FD_SET(n,p) ((p)->fds_bits[(n)/NFDBITS] |= (1L << ((n) % NFDBITS))) __FLT_DENORM_MIN__ 1.4012984643248171e-45F __LDBL_MAX__ 1.7976931348623157e+308L SIGKILL 9 __returns_twice __attribute__((__returns_twice__)) __bswap32(_x) __builtin_bswap32(_x) __requires_shared(...) __lock_annotate(shared_locks_required(__VA_ARGS__)) _END_STD_C  _REENT_MP_P5S(ptr) ((ptr)->_mp->_p5s) __GNUCLIKE_MATH_BUILTIN_CONSTANTS  __THROW  SEEK_SET 0 __has_include_next(STR) __has_include_next__(STR) _SYS_TYPES_H  _TIMEVAL_DEFINED  __UINT32_C(c) c ## UL S_ISFIFO(m) (((m)&_IFMT) == _IFIFO) _timezone _REENT_MBTOWC_STATE(ptr) ((ptr)->_misc->_mbtowc_state) _Null_unspecified  __FLT_EPSILON__ 1.1920928955078125e-7F ENOLINK 67 __XSTRING(x) __STRING(x) _WCHAR_T_DEFINED_  _REENT_MBRLEN_STATE(ptr) ((ptr)->_misc->_mbrlen_state) EADDRNOTAVAIL 125 st_mtime st_mtim.tv_sec __PTRDIFF_TYPE__ int __ARM_ARCH_ISA_THUMB tms_stime __SNPT 0x0800 __GNUCLIKE_BUILTIN_VARARGS 1 __SWID 0x2000 __int32_t_defined 1 __GCC_ATOMIC_SHORT_LOCK_FREE 2 SBT_1S ((sbintime_t)1 << 32) _SYS__TIMEVAL_H_  __HQ_IBIT__ 0 __FBSDID(s) struct __hack __USACCUM_FBIT__ 8 __need_size_t _ELIDABLE_INLINE static __inline__ _WCHAR_T  _IFLNK 0120000 S_IFIFO _IFIFO __caddr_t_defined  __MISC_VISIBLE 1 tms_utime file _NULL 0 _IFSOCK 0140000 __FLT32_MIN__ 1.1754943508222875e-38F32 __FLT32_HAS_QUIET_NAN__ 1 __OBSOLETE_MATH __OBSOLETE_MATH_DEFAULT _SIZET_  __alloc_size2(n,x) __attribute__((__alloc_size__(n, x))) __LDBL_HAS_INFINITY__ 1 sigfillset(what) (*(what) = ~(0), 0) __DEC32_MAX__ 9.999999E96DF ITIMER_REAL 0 __FLT32X_MAX_10_EXP__ 308 __GNUC_VA_LIST  TIMER_ABSTIME 4 __ARM_ARCH_EXT_IDIV__ 1 _T_WCHAR  __SERR 0x0040 __pure __attribute__((__pure__)) S_ISUID 0004000 S_ISBLK(m) (((m)&_IFMT) == _IFBLK) _tzname __SIG_ATOMIC_MIN__ (-__SIG_ATOMIC_MAX__ - 1) __UACCUM_MIN__ 0.0UK _BSD_WCHAR_T_  _BLKSIZE_T_DECLARED  SIGUSR1 30 __int64_t_defined 1 __FP_FAST_FMAF 1 ALLPERMS (S_ISUID | S_ISGID | S_ISVTX | S_IRWXU | S_IRWXG | S_IRWXO) _cookie EDOM 33 _INT16_T_DECLARED  _FSBLKCNT_T_DECLARED  BYTE_ORDER _BYTE_ORDER __sFILE_fake _ATEXIT_INIT {_NULL, 0, {_NULL}, _NULL} _wds __INT_LEAST16_WIDTH__ 16 _REENT_ASCTIME_BUF(ptr) ((ptr)->_asctime_buf) __off_t __ARM_FEATURE_FP16_FML EHOSTUNREACH 118 __lock _REENT_MBRTOWC_STATE(ptr) ((ptr)->_misc->_mbrtowc_state) EPROTONOSUPPORT 123 _sig_func __DEC64_SUBNORMAL_MIN__ 0.000000000000001E-383DD __USFRACT_EPSILON__ 0x1P-8UHR __ATFILE_VISIBLE 1 _REENT_CHECK_MP(var) _REENT_CHECK(var, _mp, struct _mprec *, sizeof *((var)->_mp), _REENT_INIT_MP(var)) fast_putc(x,p) (--(p)->_w < 0 ? __swbuf_r(_REENT, (int)(x), p) == EOF : (*(p)->_p = (x), (p)->_p++, 0)) EBADF 9 _OFF_T_DECLARED  __USFRACT_FBIT__ 8 __LLACCUM_MAX__ 0X7FFFFFFFFFFFFFFFP-31LLK ESPIPE 29 _offset _BSD_PTRDIFF_T_  _cvtbuf __USER_LABEL_PREFIX__  __UINT64_MAX__ 0xffffffffffffffffULL _REENT_STRTOK_LAST(ptr) ((ptr)->_misc->_strtok_last) _iobs _REENT_INIT_MISC(var) do { struct _reent *_r = (var); _r->_misc->_strtok_last = _NULL; _r->_misc->_mblen_state.__count = 0; _r->_misc->_mblen_state.__value.__wch = 0; _r->_misc->_wctomb_state.__count = 0; _r->_misc->_wctomb_state.__value.__wch = 0; _r->_misc->_mbtowc_state.__count = 0; _r->_misc->_mbtowc_state.__value.__wch = 0; _r->_misc->_mbrlen_state.__count = 0; _r->_misc->_mbrlen_state.__value.__wch = 0; _r->_misc->_mbrtowc_state.__count = 0; _r->_misc->_mbrtowc_state.__value.__wch = 0; _r->_misc->_mbsrtowcs_state.__count = 0; _r->_misc->_mbsrtowcs_state.__value.__wch = 0; _r->_misc->_wcrtomb_state.__count = 0; _r->_misc->_wcrtomb_state.__value.__wch = 0; _r->_misc->_wcsrtombs_state.__count = 0; _r->_misc->_wcsrtombs_state.__value.__wch = 0; _r->_misc->_l64a_buf[0] = '\0'; _r->_misc->_getdate_err = 0; } while (0) _ATFILE_SOURCE st_gid __trylocks_shared(...) __lock_annotate(shared_trylock_function(__VA_ARGS__)) __INT_LEAST8_MAX__ 0x7f __GCC_ATOMIC_POINTER_LOCK_FREE 2 __ARM_FEATURE_QBIT 1 __ARM_FEATURE_CLZ 1 __CC_SUPPORTS_WARNING 1 __ATOMIC_ACQUIRE 2 __ARM_FEATURE_COMPLEX __locks_shared(...) __lock_annotate(shared_lock_function(__VA_ARGS__)) _SIGSET_T_DECLARED  SI_ASYNCIO 4 unsigned signed SBT_1US (SBT_1S / 1000000) __ARM_SIZEOF_WCHAR_T 4 __FLT32X_MAX_EXP__ 1024 __has_include(STR) __has_include__(STR) __sclearerr(p) ((void)((p)->_flags &= ~(__SERR|__SEOF))) SI_USER 1 FILENAME_MAX 1024 __UINT_LEAST32_MAX__ 0xffffffffUL _IONBF 2 __DBL_EPSILON__ ((double)2.2204460492503131e-16L) __section(x) __attribute__((__section__(x))) __has_feature(x) 0 __INT_LEAST64_WIDTH__ 64 __FLT_HAS_INFINITY__ 1 _REENT_GLOBAL_ATEXIT 1 __ACCUM_MAX__ 0X7FFFFFFFP-15K ino_t __INT8_MAX__ 0x7f __LOCK_INIT(class,lock) extern struct __lock __lock_ ## lock; class _LOCK_T lock = &__lock_ ## lock _TIME_H_  _IFDIR 0040000 __GCC_HAVE_DWARF2_CFI_ASM 1 ___int8_t_defined 1 _p5s long unsigned int __SA_IBIT__ 16 __offsetof(type,field) offsetof(type, field) __GCC_IEC_559_COMPLEX 0 S_ISDIR(m) (((m)&_IFMT) == _IFDIR) __nonnull_all __attribute__((__nonnull__)) SIGIOT 6 __ARM_FP16_FORMAT_IEEE __GNUC__ 9 _POSIX_SOURCE __STDC_VERSION__ 201112L _REENT_TM(ptr) ((ptr)->_localtime_buf) __sFILE __sdidinit __DEC32_MAX_EXP__ 97 ECONNABORTED 113 _T_SIZE_  __FLT_EVAL_METHOD_TS_18661_3__ 0 __attribute_malloc__  __SCHAR_WIDTH__ 8 STM32F407VGTx 1 __int16_t_defined 1 tzname _tzname __UINT_FAST8_TYPE__ unsigned int __LLACCUM_IBIT__ 32 __FRACT_EPSILON__ 0x1P-15R S_IFCHR _IFCHR __requires_unlocked(...) __lock_annotate(locks_excluded(__VA_ARGS__)) __clockid_t_defined  __INT32_MAX__ 0x7fffffffL _SYS_SELECT_H  __min_size(x) static (x) _TIMER_T_ unsigned long __INT_LEAST64_MAX__ 0x7fffffffffffffffLL __null_sentinel __attribute__((__sentinel__)) __sf_fake_stderr _SYS__STDINT_H  __need_NULL  SIGSTKSZ 8192 _DEFAULT_SOURCE 1 ENOTSUP 134 __FLT32_MANT_DIG__ 24 _errno __SLBF 0x0001 __FLT32_DENORM_MIN__ 1.4012984643248171e-45F32 offsetof(TYPE,MEMBER) __builtin_offsetof (TYPE, MEMBER) __UINT64_C(c) c ## ULL __UINT_LEAST64_TYPE__ long long unsigned int S_IWOTH 0000002 __LDBL_EPSILON__ 2.2204460492503131e-16L ENOPROTOOPT 109 __FLT64_HAS_QUIET_NAN__ 1 __GCC_ATOMIC_CHAR16_T_LOCK_FREE 2 __NULLABILITY_PRAGMA_PUSH  _signal_buf SBT_1M (SBT_1S * 60) __ATOMIC_RELEASE 3 _howmany(x,y) (((x)+((y)-1))/(y)) __ERRNO_H__  __FLT32X_HAS_DENORM__ 1 __FLT_MANT_DIG__ 24 getchar_unlocked() _getchar_unlocked() __UINT32_MAX__ 0xffffffffUL __UDQ_IBIT__ 0 _GLOBAL_ATEXIT _global_atexit __GNUCLIKE___TYPEOF 1 __CC_SUPPORTS___FUNC__ 1 RAND_MAX __RAND_MAX __SSP_FORTIFY_LEVEL 0 _Bigint __bswap16(_x) __builtin_bswap16(_x) EEXIST 17 EADDRINUSE 112 _T_PTRDIFF_  SCHED_FIFO 1 __LDBL_DENORM_MIN__ 4.9406564584124654e-324L __INT64_MAX__ 0x7fffffffffffffffLL __ARM_FEATURE_SAT 1 _REENT_CHECK_EMERGENCY(var) _REENT_CHECK(var, _emergency, char *, _REENT_EMERGENCY_SIZE, ) __ULLFRACT_IBIT__ 0 argv _ANSI_STDDEF_H  __INTMAX_WIDTH__ 64 __cleanup SIGSTOP 17 ELOOP 92 STM32F4 1 _LITTLE_ENDIAN 1234 _Nonnull  SIGLOST 29 __const const __alloc_size(x) __attribute__((__alloc_size__(x))) __LONG_WIDTH__ 32 __FLT_MAX__ 3.4028234663852886e+38F ENOMEM 12 __UACCUM_FBIT__ 16 __warn_references(sym,msg) __asm__(".section .gnu.warning." #sym); __asm__(".asciz \"" msg "\""); __asm__(".previous") __ino_t __WCHAR_MIN__ 0U _REENT_RAND48_SEED(ptr) ((ptr)->_r48->_seed) __UQQ_IBIT__ 0 _NEWLIB_VERSION_H__ 1 __GCC_ATOMIC_LONG_LOCK_FREE 2 __ULACCUM_MIN__ 0.0ULK _ATEXIT_DYNAMIC_ALLOC 1 __uint32_t _emergency __ARM_ARCH 7 _SIZE_T_  E2BIG 7 __FLT_RADIX__ 2 __FLT32_HAS_INFINITY__ 1 SIGFPE 8 sigemptyset(what) (*(what) = 0, 0) __ARM_FEATURE_CMSE __LACCUM_EPSILON__ 0x1P-31LK __GCC_ATOMIC_BOOL_LOCK_FREE 2 _on_exit_args_ptr ECONNRESET 104 __LDBL_HAS_QUIET_NAN__ 1 __need_NULL ECHILD 10 P_tmpdir "/tmp" __LONG_LONG_WIDTH__ 64 __blkcnt_t _PTRDIFF_T  __UINT_FAST64_MAX__ 0xffffffffffffffffULL DST_USA 1 __ARM_FP EFBIG 27 __HA_IBIT__ 8 SIGSEGV 11 __INTPTR_WIDTH__ 32 __GCC_ATOMIC_LLONG_LOCK_FREE 1 ENETRESET 126 ETIME 62 blkcnt_t __FLT32X_MIN__ 2.2250738585072014e-308F32x timespecsub(tsp,usp,vsp) do { (vsp)->tv_sec = (tsp)->tv_sec - (usp)->tv_sec; (vsp)->tv_nsec = (tsp)->tv_nsec - (usp)->tv_nsec; if ((vsp)->tv_nsec < 0) { (vsp)->tv_sec--; (vsp)->tv_nsec += 1000000000L; } } while (0) _REENT_RAND48_MULT(ptr) ((ptr)->_r48->_mult) __FLT64_MAX_EXP__ 1024 __WCHAR_T  MB_CUR_MAX __locale_mb_cur_max() __FLT64_MIN__ 2.2250738585072014e-308F64 __GNUC_VA_LIST_COMPATIBILITY 1 ___int32_t_defined 1 _gamma_signgam _HAVE_CC_INHIBIT_LOOP_TO_LIBCALL 1 __NULLABILITY_PRAGMA_POP  __ARM_ARCH_PROFILE __INT64_TYPE__ long long int __LFRACT_FBIT__ 31 __CHAR_BIT__ 8 ENOMSG 35 __SIZEOF_WCHAR_T__ 4 _stdin_r(x) ((x)->_stdin) assert __BSD_VISIBLE 1 _QUAD_LOWWORD 0 __unused __attribute__((__unused__)) __ASSERT_FUNC __func__ _RAND48_SEED_1 (0xabcd) _freelist SIGURG 16 __UFRACT_MAX__ 0XFFFFP-16UR ___int_least64_t_defined 1 _TIME_T_DECLARED  _WANT_REENT_SMALL 1 tms_cutime _glue _mbstate_t _sign __INT_LEAST32_MAX__ 0x7fffffffL _ATFILE_SOURCE 1 _fork __EXP(x) __ ##x ##__ ENOTTY 25 __BYTE_ORDER__ __ORDER_LITTLE_ENDIAN__ __FLT32_EPSILON__ 1.1920928955078125e-7F32 __ARM_NEON_FP _NOTHROW  __sfeof(p) ((int)(((p)->_flags & __SEOF) != 0)) _ANSIDECL_H_  CLOCKS_PER_SEC _CLOCKS_PER_SEC_ timersub(tvp,uvp,vvp) do { (vvp)->tv_sec = (tvp)->tv_sec - (uvp)->tv_sec; (vvp)->tv_usec = (tvp)->tv_usec - (uvp)->tv_usec; if ((vvp)->tv_usec < 0) { (vvp)->tv_sec--; (vvp)->tv_usec += 1000000; } } while (0) EACCES 13 NSIG 32 SIGIO 23 __UFRACT_FBIT__ 16 __UDQ_FBIT__ 64 _LOCK_RECURSIVE_T _LOCK_T __GNUCLIKE_BUILTIN_MEMCPY 1 __SRW 0x0010 __LDBL_MAX_10_EXP__ 308 SIG_DFL ((_sig_func_ptr)0) __SEOF 0x0020 __sf_fake_stdout __DBL_DENORM_MIN__ ((double)4.9406564584124654e-324L) _flags2 _exit __INT_FAST32_TYPE__ int _UINT64_T_DECLARED  _INO_T_DECLARED  unsigned int _SIZE_T_DEFINED_  ENODATA 61 _UID_T_DECLARED  __NEWLIB_MINOR__ 3 __FLT_MIN_EXP__ (-125) __DEC_EVAL_METHOD__ 2 S_IFLNK _IFLNK __ULLACCUM_MAX__ 0XFFFFFFFFFFFFFFFFP-32ULLK SIGINT 2 __USACCUM_IBIT__ 8 TMP_MAX 26 bintime_cmp(a,b,cmp) (((a)->sec == (b)->sec) ? ((a)->frac cmp (b)->frac) : ((a)->sec cmp (b)->sec)) __ARM_ARCH_7EM__ 1 _BSDTYPES_DEFINED  __UDA_FBIT__ 32 __FLT64_HAS_DENORM__ 1 __FLT_DIG__ 6 __UACCUM_EPSILON__ 0x1P-16UK _WCHAR_T_DECLARED  _SYS_REENT_H_  __FLT_EVAL_METHOD__ 0 timespecadd(tsp,usp,vsp) do { (vsp)->tv_sec = (tsp)->tv_sec + (usp)->tv_sec; (vsp)->tv_nsec = (tsp)->tv_nsec + (usp)->tv_nsec; if ((vsp)->tv_nsec >= 1000000000L) { (vsp)->tv_sec++; (vsp)->tv_nsec -= 1000000000L; } } while (0) __env __SCHAR_MAX__ 0x7f __INT_FAST8_WIDTH__ 32 __STDC_UTF_16__ 1 _RAND48_MULT_2 (0x0005) __ARM_FEATURE_LDREX _REENT_CHECK_MISC(var) _REENT_CHECK(var, _misc, struct _misc_reent *, sizeof *((var)->_misc), _REENT_INIT_MISC(var)) _T_PTRDIFF  __UQQ_FBIT__ 8 _wcrtomb_state __WINT_TYPE__ unsigned int ___int_least32_t_defined 1 __DEC64_MIN_EXP__ (-382) __UACCUM_MAX__ 0XFFFFFFFFP-16UK __FLT32X_DIG__ 15 _REENT_WCTOMB_STATE(ptr) ((ptr)->_misc->_wctomb_state) __tm_mday alloca __LFRACT_MAX__ 0X7FFFFFFFP-31LR __SIZEOF_PTRDIFF_T__ 4 __STDC__ 1 _SYS__TIMESPEC_H_  ___int_least8_t_defined 1 __ARM_FEATURE_IDIV 1 _ubuf __FLOAT_WORD_ORDER__ __ORDER_LITTLE_ENDIAN__ __UINT8_TYPE__ unsigned char _stderr SIGUSR2 31 __unlocks(...) __lock_annotate(unlock_function(__VA_ARGS__)) __EXPORT  _wctomb_state __OBSOLETE_MATH_DEFAULT 1 _mbstate __SCCSID(s) struct __hack ENOTDIR 20 EWOULDBLOCK EAGAIN __SHRT_WIDTH__ 16 __ORDER_PDP_ENDIAN__ 3412 _rand_next ETOOMANYREFS 129 __DEC128_MANT_DIG__ 34 _flags __IMPORT  _RAND48_SEED_2 (0x1234) _PTRDIFF_T_DECLARED  __USA_FBIT__ 16 __volatile volatile _MACHINE__TYPES_H  ITIMER_VIRTUAL 1 __IEEE_LITTLE_ENDIAN  __lock_close_recursive(lock) __retarget_lock_close_recursive(lock) __LDBL_MIN_10_EXP__ (-307) __FLT32X_EPSILON__ 2.2204460492503131e-16F32x __FLT_HAS_QUIET_NAN__ 1 S_ISLNK(m) (((m)&_IFMT) == _IFLNK) __GCC_ATOMIC_CHAR_LOCK_FREE 2 _atexit putchar_unlocked(_c) _putchar_unlocked(_c) EDESTADDRREQ 121 __LFRACT_EPSILON__ 0x1P-31LR __predict_false(exp) __builtin_expect((exp), 0) _BEGIN_STD_C  __malloc_like __attribute__((__malloc__)) __SAPP 0x0100 EPROTO 71 __ARM_SIZEOF_MINIMAL_ENUM 1 _POINTER_INT long PTHREAD_CREATE_DETACHED 0 S_IFSOCK _IFSOCK __arm__ 1 _REENT_SMALL_CHECK_INIT(ptr) do { if ((ptr) && !(ptr)->__sdidinit) __sinit (ptr); } while (0) _stdout_r(x) ((x)->_stdout) __timer_t_defined  __FLT32_MIN_10_EXP__ (-37) ___int_size_t_h  __count __ISO_C_VISIBLE 2011 st_nlink off_t __ARM_FP16_FORMAT_ALTERNATIVE _global_impure_ptr __DEC32_MANT_DIG__ 7 __ntohs(_x) __bswap16(_x) EBUSY 16 _SYS_TIMESPEC_H_  _MACHINE__DEFAULT_TYPES_H  __BIGGEST_ALIGNMENT__ 8 LITTLE_ENDIAN _LITTLE_ENDIAN __USACCUM_MIN__ 0.0UHK _GCC_PTRDIFF_T  __GNUCLIKE_BUILTIN_NEXT_ARG 1 DST_WET 3 __TA_IBIT__ 64 SIG_SETMASK 0 STM32 1 __RAND_MAX 0x7fffffff __reent_assert(x) ((x) ? (void)0 : __assert_func(__FILE__, __LINE__, (char *)0, "REENT malloc succeeded")) __tm_wday __wchar_t__  __ARM_FEATURE_QRDMX CLOCK_DISABLED 0 __time_t_defined  __ARM_ARCH_ISA_THUMB 2 S_ISGID 0002000 __LONG_LONG_MAX__ 0x7fffffffffffffffLL EINVAL 22 long double __arg_type_tag(arg_kind,arg_idx,type_tag_idx)  __STRING(x) #x __tm_yday _REENT_INIT_PTR(var) { memset((var), 0, sizeof(*(var))); _REENT_INIT_PTR_ZEROED(var); } __COPYRIGHT(s) struct __hack __UFRACT_IBIT__ 0 __ARM_32BIT_STATE 1 _read __INT8_C(c) c __LFRACT_IBIT__ 0 _STDDEF_H_  timespecisset(tvp) ((tvp)->tv_sec || (tvp)->tv_nsec) __DBL_MIN_EXP__ (-1021) __SIZE_T  _kill alloca(size) __builtin_alloca(size) _seed __printf0like(fmtarg,firstvararg)  SIGEV_THREAD 3 __GCC_ATOMIC_CHAR32_T_LOCK_FREE 2 SIGXCPU 24 ERANGE 34 __FLT32_DIG__ 6 _seek st_dev STM32F407G_DISC1 1 __compar_fn_t_defined  EOF (-1) __SNBF 0x0002 timespec __EXP ___int64_t_defined 1 __LDBL_HAS_DENORM__ 1 __HAVE_SPECULATION_SAFE_VALUE 1 __wchb __GCC_HAVE_SYNC_COMPARE_AND_SWAP_4 1 __BEGIN_DECLS  __ACCUM_MIN__ (-0X1P15K-0X1P15K) PTHREAD_SCOPE_SYSTEM 1 SIGTRAP 5 _GCC_WCHAR_T  __ARM_FEATURE_CRYPTO SIG_IGN ((_sig_func_ptr)1) __INT_LEAST32_TYPE__ long int _mbtowc_state SIGWINCH 28 SIGXFSZ 25 __UINT_LEAST64_MAX__ 0xffffffffffffffffULL __FRACT_IBIT__ 0 EFTYPE 79 SIG_UNBLOCK 2 __NEWLIB_PATCHLEVEL__ 0 __lock_acquire(lock) __retarget_lock_acquire(lock) __ORDER_LITTLE_ENDIAN__ 1234 __size_t __CC_SUPPORTS_INLINE 1 __DOTS , ... __DEC64_MANT_DIG__ 16 long long unsigned int _REENT_GETDATE_ERR_P(ptr) (&((ptr)->_misc->_getdate_err)) __FLT_MIN_10_EXP__ (-37) tms_cstime clock_t __ULACCUM_IBIT__ 32 __SHRT_MAX__ 0x7fff __ULLACCUM_EPSILON__ 0x1P-32ULLK __APCS_32__ 1 __DQ_FBIT__ 63 initialise_monitor_handles __GNU_VISIBLE 0 __SACCUM_IBIT__ 8 _REENT_INIT_MP(var) do { struct _reent *_r = (var); _r->_mp->_result_k = 0; _r->_mp->_result = _r->_mp->_p5s = _NULL; _r->_mp->_freelist = _NULL; } while (0) __PTRDIFF_T  __UHQ_IBIT__ 0 SIGTTOU 22 _dso_handle _REENT_INIT_ATEXIT  physadr physadr_t __INT_FAST16_TYPE__ int _UINTMAX_T_DECLARED  __SACCUM_MIN__ (-0X1P7HK-0X1P7HK) _rand48 __UINT_LEAST16_TYPE__ short unsigned int _ID_T_DECLARED  _INTMAX_T_DECLARED  __LACCUM_MAX__ 0X7FFFFFFFFFFFFFFFP-31LK __CHAR16_TYPE__ short unsigned int long long int static_assert _Static_assert __signed signed __UTQ_FBIT__ 128 __SNLK 0x0001 TIMEVAL_TO_TIMESPEC(tv,ts) do { (ts)->tv_sec = (tv)->tv_sec; (ts)->tv_nsec = (tv)->tv_usec * 1000; } while (0) _BLKCNT_T_DECLARED  __FINITE_MATH_ONLY__ 0 _REENT_CHECK_SIGNAL_BUF(var) _REENT_CHECK(var, _signal_buf, char *, _REENT_SIGNAL_SIZE, ) __INT_FAST16_MAX__ 0x7fffffff __have_longlong64 1 __SOPT 0x0400 _blksize SEEK_END 2 _UINT8_T_DECLARED  __SIZEOF_SHORT__ 2 __clock_t_defined  __lock_try_acquire(lock) __retarget_lock_try_acquire(lock) _UINTPTR_T_DECLARED  CLOCK_REALTIME ((clockid_t) 1) _WCHAR_T_DEFINED  _base __ULACCUM_MAX__ 0XFFFFFFFFFFFFFFFFP-32ULK __trylocks_exclusive(...) __lock_annotate(exclusive_trylock_function(__VA_ARGS__)) __VALIST __gnuc_va_list __htons(_x) __bswap16(_x) _REENT_RAND_NEXT(ptr) ((ptr)->_r48->_rand_next) SIGCONT 19 __ULFRACT_MIN__ 0.0ULR CLOCK_ALLOWED 1 _IFBLK 0060000 _strtok_last __DQ_IBIT__ 0 __need_inttypes L_ctermid 16 __UINT_LEAST8_MAX__ 0xff SA_NOCLDSTOP 1 _mbrtowc_state __containerof(x,s,m) ({ const volatile __typeof(((s *)0)->m) *__x = (x); __DEQUALIFY(s *, (const volatile char *)__x - __offsetof(s, m));}) _UINT32_T_DECLARED  __SWR 0x0008 _BSD_SIZE_T_  mode_t __no_lock_analysis __lock_annotate(no_thread_safety_analysis) _WCHAR_T_  _flock_t SIGSYS 12 _REENT_CHECK_ASCTIME_BUF(var) _REENT_CHECK(var, _asctime_buf, char *, _REENT_ASCTIME_SIZE, memset((var)->_asctime_buf, 0, _REENT_ASCTIME_SIZE)) __FILE SIGQUIT 3 ENOTSOCK 108 DST_EET 5 S_ISREG(m) (((m)&_IFMT) == _IFREG) _REENT_MP_FREELIST(ptr) ((ptr)->_mp->_freelist) _TIME_T_ __int_least64_t _CLOCKID_T_ unsigned long _SYS_TIME_H_  _GID_T_DECLARED  __UTQ_IBIT__ 0 __SA_FBIT__ 15 __INT_WCHAR_T_H  __FLT32X_MAX__ 1.7976931348623157e+308F32x _FSTDIO  _STDIO_H_  SIGTSTP 18 __ARM_EABI__ 1 _r48 __UACCUM_IBIT__ 16 __ELF__ 1 __THUMBEL__ 1 __ARM_FEATURE_DSP 1 __ELASTERROR 2000 __QQ_IBIT__ 0 __SORD 0x2000 S_IXGRP 0000010 ACCESSPERMS (S_IRWXU | S_IRWXG | S_IRWXO) SIG_ERR ((_sig_func_ptr)-1) _next __LOCK_INIT_RECURSIVE(class,lock) __LOCK_INIT(class,lock) __LLACCUM_FBIT__ 31 _data __UINTMAX_TYPE__ long long unsigned int __FLT32X_MIN_10_EXP__ (-307) __USQ_IBIT__ 0 __GNUC_MINOR__ 3 _SYS_SCHED_H_  __UINT_LEAST32_TYPE__ long unsigned int _fstat GNU C11 9.3.1 20200408 (release) -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -march=armv7e-m+fp -g3 -O0 -std=gnu11 -ffunction-sections -fdata-sections -fstack-usage __ARM_FEATURE_NUMERIC_MAXMIN _RAND48_MULT_1 (0xdeec) __INTMAX_TYPE__ long long int __GCC_ATOMIC_INT_LOCK_FREE 2 SIGPOLL SIGIO ENOENT 2 _RAND48_SEED_0 (0x330e) __SFRACT_MIN__ (-0.5HR-0.5HR) _SSIZE_T_DECLARED  _GCC_MAX_ALIGN_T  __Long long __ARM_FEATURE_FP16_SCALAR_ARITHMETIC __USACCUM_EPSILON__ 0x1P-8UHK __DBL_HAS_QUIET_NAN__ 1 gid_t __ptrvalue  _NOINLINE_STATIC _NOINLINE static __LLFRACT_MAX__ 0X7FFFFFFFFFFFFFFFP-63LLR __DEC128_MAX_EXP__ 6145 _SUSECONDS_T_DECLARED  ESTALE 133 _unlink __u_short_defined  S_BLKSIZE 1024 __SACCUM_MAX__ 0X7FFFP-7HK __INTPTR_TYPE__ int _VA_LIST_DEFINED  __UINTPTR_TYPE__ unsigned int __REGISTER_PREFIX__  __FLT32_MAX__ 3.4028234663852886e+38F32 __DBL_DIG__ 15 __ULFRACT_EPSILON__ 0x1P-32ULR __RCSID(s) struct __hack _NEWLIB_STDIO_H  _SYS__SIGSET_H_  _REENT_L64A_BUF(ptr) ((ptr)->_misc->_l64a_buf) __SIZEOF_SIZE_T__ 4 _REENT_MBLEN_STATE(ptr) ((ptr)->_misc->_mblen_state) name __GNUCLIKE___OFFSETOF 1 __DEC128_MIN__ 1E-6143DL __INT64_C(c) c ## LL HAVE_INITFINI_ARRAY 1 __lockable __lock_annotate(lockable) SIGCLD 20 FD_ZERO(p) (__extension__ (void)({ size_t __i; char *__tmp = (char *)p; for (__i = 0; __i < sizeof (*(p)); ++__i) *__tmp++ = 0; })) __END_DECLS  __MACHINE_ENDIAN_H__  __LONG_MAX__ 0x7fffffffL SIGEV_SIGNAL 2 __ACCUM_IBIT__ 16 fd_set _types_fd_set unsigned __bswap64(_x) __builtin_bswap64(_x) _mblen_state __has_builtin(x) 0 FOPEN_MAX 20 short int _STDDEF_H  __pt_guarded_by(x) __lock_annotate(pt_guarded_by(x)) __guarded_by(x) __lock_annotate(guarded_by(x)) sigaddset(what,sig) (*(what) |= (1<<(sig)), 0) __UINT16_C(c) c DST_MET 4 __sym_compat(sym,impl,verid) __asm__(".symver " #impl ", " #sym "@" #verid) __CC_SUPPORTS___INLINE__ 1 __UDA_IBIT__ 32 __printflike(fmtarg,firstvararg) __attribute__((__format__ (__printf__, fmtarg, firstvararg))) __NO_INLINE__ 1 SI_MESGQ 5 __fastcall __attribute__((__fastcall__)) FD_SETSIZE 64 S_IRWXU (S_IRUSR | S_IWUSR | S_IXUSR) __lock_annotate(x)  _LITE_EXIT 1 __ATOMIC_RELAXED 0 _ATTRIBUTE(attrs) __attribute__ (attrs) __ARM_FEATURE_COPROC __ATTRIBUTE_IMPURE_PTR__  tv_nsec st_atime st_atim.tv_sec __SIG_ATOMIC_MAX__ 0x7fffffff __FLT64_MANT_DIG__ 53 ENFILE 23 _REENT_CHECK_RAND48(var) _REENT_CHECK(var, _r48, struct _rand48 *, sizeof *((var)->_r48), _REENT_INIT_RAND48((var))) _RETARGETABLE_LOCKING 1 EINTR 4 __rangeof(type,start,end) (__offsetof(type, end) - __offsetof(type, start)) suboptarg MINSIGSTKSZ 2048 S_IRWXO (S_IROTH | S_IWOTH | S_IXOTH) TIMESPEC_TO_TIMEVAL(tv,ts) do { (tv)->tv_sec = (ts)->tv_sec; (tv)->tv_usec = (ts)->tv_nsec / 1000; } while (0) __USES_INITFINI__ 1 __int_least64_t _INT8_T_DECLARED  __DEC64_MIN__ 1E-383DD __need_ptrdiff_t __ULFRACT_MAX__ 0XFFFFFFFFP-32ULR __DBL_DECIMAL_DIG__ 17 _maxwds __have_long32 1 __sferror(p) ((int)(((p)->_flags & __SERR) != 0)) _sys_errlist __ULACCUM_FBIT__ 32 __flexarr [0] __tm_year ENOTRECOVERABLE 141 _REENT_INIT_PTR_ZEROED(var) { (var)->_stdin = (__FILE *)&__sf_fake_stdin; (var)->_stdout = (__FILE *)&__sf_fake_stdout; (var)->_stderr = (__FILE *)&__sf_fake_stderr; } __INT16_MAX__ 0x7fff __SYS_CONFIG_H__  ENXIO 6 __DEVOLATILE(type,var) ((type)(__uintptr_t)(volatile void *)(var)) __WCHAR_T__  __INT_WIDTH__ 32 __ARM_FEATURE_SIMD32 1 __result_use_check __attribute__((__warn_unused_result__)) __XSI_VISIBLE 0 _STDLIB_H_  _IN_ADDR_T_DECLARED  _IOLBF 1 __QQ_FBIT__ 7 BUFSIZ 1024 __GCC_ATOMIC_TEST_AND_SET_TRUEVAL 1 S_ISVTX 0001000 _IN_PORT_T_DECLARED  __SIG_ATOMIC_WIDTH__ 32 S_IFREG _IFREG __FLT64_EPSILON__ 2.2204460492503131e-16F64 _open __GNUC_PREREQ__(ma,mi) __GNUC_PREREQ(ma, mi) EXIT_FAILURE 1 __pure2 __attribute__((__const__)) __UTA_IBIT__ 64 __ULLACCUM_IBIT__ 32 __ARM_FEATURE_CRC32 __strong_reference(sym,aliassym) extern __typeof (sym) aliassym __attribute__ ((__alias__ (#sym))) __ULLFRACT_EPSILON__ 0x1P-64ULLR __unreachable() __builtin_unreachable() _lbfsize _ATEXIT_SIZE 32 __SIZEOF_WINT_T__ 4 _ind ENOSR 63 __ARM_FEATURE_UNALIGNED 1 __GXX_TYPEINFO_EQUALITY_INLINE 0 __LDBL_DECIMAL_DIG__ 17 st_ctime st_ctim.tv_sec __GNUCLIKE_ASM 3 __LACCUM_MIN__ (-0X1P31LK-0X1P31LK) __INT_FAST8_MAX__ 0x7fffffff __FLT32_HAS_DENORM__ 1 __scanflike(fmtarg,firstvararg) __attribute__((__format__ (__scanf__, fmtarg, firstvararg))) _REENT_SMALL  __ULLACCUM_MIN__ 0.0ULLK _SYS__TYPES_H  __INT_FAST32_WIDTH__ 32 __gid_t _is_cxa _LOCK_T __GNUCLIKE_BUILTIN_VAALIST 1 st_mode __uid_t _NEWLIB_ALLOCA_H  __ARM_ASM_SYNTAX_UNIFIED__ 1 S_IWUSR 0000200 strtodf strtof __UINT32_TYPE__ long unsigned int blksize_t __ARM_FEATURE_DOTPROD _CLOCKS_PER_SEC_ 100 _NEWLIB_VERSION "3.3.0" NFDBITS (sizeof (fd_mask) * 8) _mprec status __ARM_PCS_VFP 1 _GCC_SIZE_T  _misc __WINT_WIDTH__ 32 __ULLFRACT_MIN__ 0.0ULLR _T_WCHAR_  _locale __ULong EMULTIHOP 74 __ARM_FP16_ARGS _INT32_T_DECLARED  __SIZEOF_INT__ 4 _BSD_WCHAR_T_ __LLFRACT_IBIT__ 0 __CC_SUPPORTS_VARADIC_XXX 1 _stat __restrict restrict bintime_clear(a) ((a)->sec = (a)->frac = 0) timerisset(tvp) ((tvp)->tv_sec || (tvp)->tv_usec) S_IFDIR _IFDIR EAFNOSUPPORT 106 __SACCUM_EPSILON__ 0x1P-7HK EFAULT 14 EIO 5 _result _REENT_CHECK_VERIFY 1 EDEADLK 45 __ARM_FP 4 _POSIX_SOURCE 1 __UINT_FAST16_TYPE__ unsigned int __VERSION__ "9.3.1 20200408 (release)" __UHA_IBIT__ 8 __GNUC_STDC_INLINE__ 1 _fpos_t __ACCUM_EPSILON__ 0x1P-15K __ULACCUM_EPSILON__ 0x1P-32ULK __LDBL_DIG__ 15 EOVERFLOW 139 __DBL_MIN__ ((double)2.2250738585072014e-308L) __SIZE_WIDTH__ 32 _REENT_MP_RESULT(ptr) ((ptr)->_mp->_result) __WINT_MIN__ 0U ETIMEDOUT 116 _off_t __FLT64_DIG__ 15 __DEC64_EPSILON__ 1E-15DD _CLOCKID_T_DECLARED  __WINT_MAX__ 0xffffffffU __INT_LEAST8_WIDTH__ 8 _REENT_MP_RESULT_K(ptr) ((ptr)->_mp->_result_k) __long_double_t long double __INT_LEAST16_TYPE__ short int _add _RAND48_MULT_0 (0xe66d) __DBL_MAX__ ((double)1.7976931348623157e+308L) short unsigned int __LLFRACT_FBIT__ 63 __tm_hour __thumb__ 1 _BIG_ENDIAN 4321 __ARMEL__ 1 timespeccmp(tvp,uvp,cmp) (((tvp)->tv_sec == (uvp)->tv_sec) ? ((tvp)->tv_nsec cmp (uvp)->tv_nsec) : ((tvp)->tv_sec cmp (uvp)->tv_sec)) __format_arg(fmtarg) __attribute__((__format_arg__ (fmtarg))) __compiler_membar() __asm __volatile(" " : : : "memory") __lock_close(lock) __retarget_lock_close(lock) __HQ_FBIT__ 15 ENODEV 19 __datatype_type_tag(kind,type)  __need___va_list S_IWRITE 0000200 __SIZE_MAX__ 0xffffffffU __need_wint_t  SIGEV_NONE 1 _mbsrtowcs_state _lseek __always_inline __inline__ __attribute__((__always_inline__)) ENOLCK 46 __ARM_ARCH SIGCHLD 20 stderr (_REENT->_stderr) __SFRACT_IBIT__ 0 EALREADY 120 _SYS_CDEFS_H_  timercmp(tvp,uvp,cmp) (((tvp)->tv_sec == (uvp)->tv_sec) ? ((tvp)->tv_usec cmp (uvp)->tv_usec) : ((tvp)->tv_sec cmp (uvp)->tv_sec)) ENOTCONN 128 __nonnull(x) __attribute__((__nonnull__ x)) _RAND48_ADD (0x000b) D:/RBEI Sushu/STM32CubeIDE/PROJECT/NEWP/Debug SIGABRT 6 __ARM_FEATURE_LDREX 7 __lock_acquire_recursive(lock) __retarget_lock_acquire_recursive(lock) PDP_ENDIAN _PDP_ENDIAN __LLFRACT_EPSILON__ 0x1P-63LLR _SIGNAL_H_  SCHED_RR 2 __SFRACT_MAX__ 0X7FP-7HR __FLT32X_MANT_DIG__ 53 st_ino __WCHAR_WIDTH__ 32 _INT64_T_DECLARED  __sglue SIGHUP 1 _SYS__PTHREADTYPES_H_  __INT16_C(c) c SBT_1NS (SBT_1S / 1000000000) __nlink_t __DA_IBIT__ 32 __strftimelike(fmtarg,firstvararg) __attribute__((__format__ (__strftime__, fmtarg, firstvararg))) __tm_isdst __DEQUALIFY(type,var) ((type)(__uintptr_t)(const volatile void *)(var)) __lock_init_recursive(lock) __retarget_lock_init_recursive(&lock) __ATOMIC_ACQ_REL 4 S_ENFMT 0002000 __INT32_TYPE__ long int __packed __attribute__((__packed__)) __DBL_MIN_10_EXP__ (-307) _daylight _SYS_TIMES_H  S_IRUSR 0000400 __asserts_shared(...) __lock_annotate(assert_shared_lock(__VA_ARGS__)) __INT_FAST8_TYPE__ int __SYS_LOCK_H__  _NANO_FORMATTED_IO 1 __tm_min tv_sec _REENT_ASCTIME_SIZE 26 _getdate_err _POSIX_C_SOURCE __UINTMAX_MAX__ 0xffffffffffffffffULL __DBL_MANT_DIG__ 53 __ULFRACT_IBIT__ 0 PTHREAD_CREATE_JOINABLE 1 SS_DISABLE 0x2 _SYS_STAT_H  __hidden __attribute__((__visibility__("hidden"))) __u_long_defined  __INT_MAX__ 0x7fffffff __INT_LEAST64_TYPE__ long long int __UINT16_MAX__ 0xffff SIGALRM 14 st_atim __SACCUM_FBIT__ 7  GCC: (GNU Tools for STM32 9-2020-q2-update.20201001-1621) 9.3.1 20200408 (release)      ÿÿÿÿ |
+               A‡A
+ B
+
+BÇ                A‡A
+ C
+
+BÇ                  A‡ŽAA
+ KA
+
+               A‡ŽAA
+                :   A‡ŽA A
+ XA
+
+             8   A‡ŽA A
+ WA
+
+ $              A‡AA
+ EA
+
+BÇ    $               A‡AA
+ IA
+
+BÇ    $              A‡AA
+ DA
+
+BÇ    $              A‡AA
+ FA
+
+BÇ    0              A‚ƒA‡AA
+ EA
+
+BÇAÃÂÁ                A‡ŽAA
+ JA
+
+                A‡ŽAA
+ JA
+
+ $              A‡AA
+ EA
+
+BÇ    $               A‡AA
+ IA
+
+BÇ                    A‡ŽAA
+ KA
+
+               A‡ŽA
+               "   A‡ŽAA
+ LA
+
+ A3   aeabi )   7E-M 
+ M	
+"                            ñÿ             0              1              2              3              3              4              4              6              6              7              7              8              8              :              :              <              <              >              >              @              @              A              A              B              B              C              C              D              D              E              E              G              G              I              I              J              J              K              K              M              M              O              O              Q              S              T              V              X              ¸              º              Z              \              ^              `              b              d              f              h              j              l              n              p              r              t              v              x              z              |              ~              €              ‚              „              †              ˆ              Š              Œ              Ž                            ’              ”              –              ˜              š              œ              ž                             ¢              ¤              ¦              ¨              ª              ¬              ®              °              ²              ´              ¶              ¼               9              r              £              Ô                            9              i             ¡            	 Ò            
+             
+ 3             e            
+ —             Ç             õ             %             V             ‡             ¶             è                          E             u             §             Ù             	             <             o                           Ð                            8            ! h            " —            # È            $ ø            % )             & X             ' ‡             ( ·             ) è             *             + G            , w            - §            . Ø            /              »              ¾                                                                                                                               	              
+              
+                            
+                                                                                                                                                                                                                                                                                         !              "              #              $              %              &              '              (              )              *              +              ,              -              .              /  	          3 
+	          4 	         6 0	         7 8	          8 >	             F	         : L	     :   " < R	              _	     8   " > f	              s	         @ z	          A 	         B ‰	         C 	         D –	         E œ	         G ¤	         I «	          J ±	          K ·	         M ½	     "    O  syscalls.c $d $t wm4.0.40580706c99fa6eeee93afdca6692fdb wm4._newlib_version.h.4.1ef4e12f167f8b69d7c30054be56050d wm4.newlib.h.34.314a350541e36f4baea3ec77033a1a03 wm4.ieeefp.h.77.f33a4dce62116f6f5175ff8bae57a54c wm4.features.h.22.fad1cec3bc7ff06488171438dbdcfd02 wm4.config.h.224.79362c3cdb280fe0b8d95bd0bc4d5c54 wm4._ansi.h.31.de524f58584151836e90d8620a16f8e8 wm4._default_types.h.6.959254cf5f09734ea7516c89e8bb21bd wm4.stddef.h.39.144cf5ddcd53cbfdac30259dc1a6c87f wm4.cdefs.h.49.6260d97adb8d27534cbdc0f868b8ea87 wm4._types.h.20.dd0d04dca3800a0d2a6129b87f3adbb2 wm4.stddef.h.155.3588ebfdd1e8c7ede80509bb9c3b8009 wm4._types.h.127.34941de1b2539d59d5cac00e0dd27a45 wm4.reent.h.17.e292bf8b0bec6c96e131a54347145a30 wm4.lock.h.2.1461d1fff82dffe8bfddc23307f6484f wm4.reent.h.77.32fd7d280fc2a40b0797abce5beaf6e3 wm4.assert.h.11.db24e541f16414db224bf986d21017e2 wm4.reent.h.504.40d20ade344680fbcb6a0178bf7ae09e wm4.time.h.14.849270cc7997ccc4e05edd146e568a9f wm4.stddef.h.155.ba788add86a0e365f264484f110c3c29 wm4.time.h.2.4581ce0ffb6627cfc02162c94bf846c9 wm4.time.h.25.0e6a0fdbc9955f5707ed54246ed2e089 wm4.types.h.40.8b6acba56cefbb11746718204edc8f5e wm4._stdint.h.10.c24fa3af3bc1706662bb5593a907e841 wm4._endian.h.31.65a10590763c3dde1ac4a7f66d7d4891 wm4.endian.h.9.49f3a4695c1b61e8a0808de3c4a106cb wm4._timeval.h.32.bec3221fa7a9bb0bdde696c9c57e47d2 wm4.timespec.h.41.d855182eb0e690443ab8651bcedca6e1 wm4.select.h.19.97ca6fd0c752a0f3b6719fd314d361e6 wm4.types.h.51.5571ec98f267d17d3c670b7a3ba33afa wm4.sched.h.22.c60982713a5c428609783c78f9c78d95 wm4._pthreadtypes.h.36.fcee9961c35163dde6267ef772ad1972 wm4.time.h.162.85256a1e684b58f061361067da714e0e wm4.stat.h.54.5a9b823658423102e7a8de4ed089eedc wm4.stdlib.h.13.4ed386f5c1a80d71e72172885d946ef2 wm4.alloca.h.8.dfc0c703c47ec3e69746825b17d9e66d wm4.stdlib.h.56.f4862cfbf4363a1db01842d5bdf72c18 wm4.errno.h.2.ba016d646105af6cad23be83630b6a3f wm4.errno.h.9.1ecd7b1049497a0ab61da0f6cbd4b0c6 wm4.stdio.h.27.3fc80220048df77954e38daec3bb9670 wm4.stdarg.h.34.3a23a216c0c293b3d2ea2e89281481e6 wm4.stdio.h.47.1f5845210bb9053bbca9ed76fc4018da wm4.stdio.h.2.4aa87247282eca6c8f36f9de33d8df1a wm4.stdio.h.81.60a2ded7dae310b81f9d6907fe5e3dbf wm4.signal.h.4.52f6e87eb2ba3e571517621a52c855c8 wm4.signal.h.18.14c8d0c03fc1e06775633fad7399cfc7 wm4.time.h.40.07bdef2e51e429b46276cd6f2246b78b __env environ initialise_monitor_handles _getpid _kill __errno _exit _read __io_getchar _write __io_putchar _close _fstat _isatty _lseek _open _wait _unlink _times _stat _link _fork _execve        Ä  
+   
+É     
+È     
+Ì     
+Î     
+É     
+É  
+   
+É     
+É     
+É     .     3     3     3     0  !   2  %   1  ,   3  3   3  :   3  A   3  H   3  M   3  [   3  b   3  i   3  n   3  ƒ   3  Š   3     3  œ   3  ¨   3  ´   3  À   3  Ì   3  Ø   3  ä   3  ð   3  ü   3    3    3  )  3  O  3  \  3  j  3  x  3  „  3    3  ¢  3  §  3  ³  3  À  3  Ù  3  æ  3  ó  3  #  3  0  3  =  3  J  3  W  3  d  3  q  3  ~  3  ‹  3  ˜  3  ¦  3  ´  3  Á  3  Î  3  Ü  3  û  3    3    3  "  3  /  3  `  3  m  3  z  3  Ž  3  ¿  3  Ì  3  æ  3  ó  3    3    3  "  3  0  3  >  3  L  3  Z  3  h  3  v  3  „  3     3  ®  3  ¼  3  Ê  3  Ø  3  æ  3  ô  3    3    3    3  ,  3  :  3  T  3  …  3  ’  3  ¬  3  ¹  3  Æ  3  Ó  3  à  3  í  3  ú  3  .  3  ;  3  U  3  b  3  o  3  |  3  ‰  3  ½  3  Z   3  g   3  u   3  ƒ   3  ‘   3  ¬   3  º   3  È   3  Ö   3  ä   3    3    3    3  -  3  ;  3  P  3  ^  3  l  3  z  3  ˆ  3  –  3  ¤  3  ²  3  À  3  Î  3  Ü  3  ê  3  		  3  T	  3  a	  3  n	  3  {	  3  ˆ	  3  •	  3  ¢	  3  ®	  3  »	  3  È	  3  Ö	  3  â	  3  î	  3  ú	  3  
+  3  
+  3  
+  3  *
+  3  6
+  3  B
+  3  N
+  3  Z
+  3  v
+  3  ‚
+  3  
+  3  œ
+  3  ©
+  3  ¶
+  3  Ã
+  3  Ð
+  3  Ý
+  3  ê
+  3  ÷
+  3  
+  3  
+  3  
+  3  +
+  3  8
+  3  V
+  3  r
+  3  ~
+  3  —
+  3  ¤
+  3  ±
+  3  ¾
+  3  Ü
+  3  é
+  Ä  î
+  3  û
+  Å    3    +     3  /  3  N  3  Y  )  d  3  o  '    3  ¨  %  ·  3  Û  3  æ  #  
+
+  3  
+  !  %
+  3  5
+  3  @
+    O
+  3  e
+  3  p
+    
+  3  Ž
+  3  Ÿ
+  3  ª
+    ¹
+  3  ç
+  3  ò
+      3    3      +  3  I  3  T    c  3  s  3  ~      3  º  3  Ê  3  Õ    ä  3    3  !  3  (    7  3  G  3  R  
+  €  3  ‹  
+  –  3    	     -     	     
+      
+  (     0     8     @     H     P     X     `     h     p   !  x   #  €   %  ˆ   '     )  ˜   +      	     	     
+     
+     
+     
+                  $     (     ,     0     4     8     <     @     D     H     L     P     T     X     \     `   !  d   !  h   #  l   #  p   %  t   %  x   '  |   '  €   )  „   )  ˆ   +  Œ   +     2     4     3     3  &   3  .   5  4   6  >   3  F   7  O   8  U   9  [   :  e   3  r   3  z   ;  ƒ   <  ‰   =  “   3  Ÿ   >  §   ?  ±   3  ·   @  ½   A  Å   B  Ë   C  Ô   D  Ú   E  à   F  è   G  ñ   H  ÷   I  ÿ   J     K    3    L    M  )  3  2  3  ;  N  E  3  N  3  T  O  Z  P  `  Q  j  3  r  R  x  S  …  3    3  •  T  ›  U  ¥  3  ®  V  ¶  G  À  3  É  W  Ï  X  Ø  Y  à  Z  ê  [  ò  G  ù  3    \     ]    ^    _    3  '  `  -  a  6  b  E  3     3  
+   3     3     3     3  #   3  )   3  /   3  5   3  ;   3  A   3  G   3  M   3  S   3  Y   3  _   3  e   3  k   3  q   3  w   3  }   3  ƒ   3  ‰   3     3  •   3  ›   3  ¡   3  §   3  ­   3  ³   3  ¹   3  ¿   3  Å   3  Ë   3  Ñ   3  ×   3  Ý   3  ã   3  é   3  ï   3  õ   3  û   3    3     3  
+  3    3    3    3  %  3  +  3  1  3  7  3  =  3  C  3  I  3  O  3  U  3  [  3  a  3  g  3  m  3  s  3  y  3    3  …  3  ‹  3  ‘  3  —  3    3  £  3  ©  3  ¯  3  µ  3  »  3  Á  3  Ç  3  Í  3  Ó  3  Ù  3  ß  3  å  3  ë  3  ñ  3  ÷  3  ý  3    3  	  3    3    3    3  !  3  '  3  -  3  3  3  9  3  ?  3  E  3  K  3  Q  3  W  3  ]  3  c  3  i  3  o  3  u  3  {  3    3  ‡  3    3  “  3  ™  3  Ÿ  3  ¥  3  «  3  ±  3  ·  3  ½  3  Ã  3  É  3  Ï  3  Õ  3  Û  3  á  3  ç  3  í  3  ó  3  ù  3  ÿ  3    3  
+  3    3    3    3  #  3  )  3  /  3  5  3  ;  3  A  3  G  3  M  3  S  3  Y  3  _  3  e  3  k  3  q  3  w  3  }  3  ƒ  3  ‰  3    3  •  3  ›  3  ¡  3  §  3  ­  3  ³  3  ¹  3  ¿  3  Å  3  Ë  3  Ñ  3  ×  3  Ý  3  ã  3  é  3  ï  3  õ  3  û  3    3     3  
+  3    3    3    3  %  3  +  3  1  3  7  3  =  3  C  3  I  3  O  3  U  3  [  3  a  3  g  3  m  3  s  3  y  3    3  …  3  ‹  3  ‘  3  —  3    3  £  3  ©  3  ¯  3  µ  3  »  3  Á  3  Ç  3  Í  3  Ó  3  Ù  3  ß  3  å  3  ë  3  ñ  3  ÷  3  ý  3    3  	  3    3    3    3  !  3  '  3  -  3  3  3  9  3  ?  3  E  3  K  3  Q  3  W  3  ]  3  c  3  i  3  o  3  u  3  {  3    3  ‡  3    3  “  3  ™  3  Ÿ  3  ¥  3  «  3  ±  3  ·  3  ½  3  Ã  3  É  3  Ï  3  Õ  3  Û  3  á  3  ç  3  í  3  ó  3  ù  3  ÿ  3    3  
+  3    3    3    3  #  3  )  3  /  3  5  3  ;  3  A  3  G  3  M  3  S  3  Y  3  _  3  e  3  k  3  q  3  w  3  }  3  ƒ  3  ‰  3    3  •  3  ›  3  ¡  3  §  3  ­  3  ³  3  ¹  3  ¿  3  Å  3  Ë  3  Ñ  3  ×  3  Ý  3  ã  3  é  3  ï  3  õ  3  û  3     3      3  
+   3     3     3     3  %   3  +   3  1   3  7   3  =   3  C   3  I   3  O   3  U   3  [   3  a   3  g   3  m   3  s   3  y   3     3  …   3  ‹   3  ‘   3  —   3     3  £   3  ©   3  ¯   3  µ   3  »   3  Á   3  Ç   3  Í   3  Ó   3  Ù   3  ß   3  å   3  ë   3  ñ   3  ÷   3  ý   3    3  	  3    3    3    3  !  3  '  3  -  3  3  3  9  3  ?  3  E  3  K  3  Q  3  W  3  ]  3  c  3  i  3  o  3  u  3  {  3    3  ‡  3    3  “  3  ™  3  Ÿ  3  ¥  3  «  3  ±  3  ·  3  ½  3  Ã  3  É  3  Ï  3  Õ  3  Û  3  á  3  ç  3  í  3  ó  3  ù  3  ÿ  3  	  3  
+	  3  	  3  	  3  	  3  #	  3  )	  3  /	  3  5	  3  ;	  3  A	  3  G	  3  M	  3  S	  3  Y	  3  _	  3  e	  3  k	  3  q	  3  w	  3  }	  3  ƒ	  3  ‰	  3  	  3  •	  3  ›	  3  ¡	  3  §	  3  ­	  3  ³	  3  ¹	  3  ¿	  3  Å	  3  Ë	  3  Ñ	  3  ×	  3  Ý	  3  ã	  3  é	  3  ï	  3  õ	  3  û	  3  
+  3   
+  3  
+  3  
+  3  
+  3  
+  3  %
+  3  +
+  3  1
+  3  7
+  3  =
+  3  C
+  3  I
+  3  O
+  3  U
+  3  [
+  3  a
+  3  g
+  3  m
+  3  s
+  3  y
+  3  
+  3  …
+  3  ‹
+  3  ‘
+  3  —
+  3  
+  3  £
+  3  ©
+  3  ¯
+  3     3  
+   3     3     3     3     3  
+   3     3     3     3  #   3  )   3  /   3  5   3  ;   3  A   3  G   3     3     3     3     3  
+   3     3     3     3  &   3  -   3  4   3  ;   3  B   3  I   3  P   3  W   3  ^   3  e   3  l   3  s   3  z   3     3  ˆ   3     3     3  
+   3     3     3  "   3  )   3  0   3  7   3     3  
+   3     3     3     3  #   3  )   3  /   3     3  
+   3     3     3     3  #   3  )   3  /   3  6   3  =   3  D   3  K   3  R   3     3  
+   3     3     3     3  &   3  -   3  4   3  ;   3  B   3  I   3  P   3  W   3  ^   3  e   3  l   3  s   3  z   3     3  ˆ   3     3  –   3     3  ¤   3  «   3  ²   3  ¹   3  À   3  Ç   3  Î   3  Õ   3  Ü   3  ã   3  ê   3  ñ   3  ø   3  ÿ   3    3  
+  3    3    3  "  3  )  3  0  3  7  3  >  3  E  3  L  3  S  3  Z  3  a  3  h  3  o  3     3  
+   3     3     3     3  #   3  )   3  /   3  5   3  ;   3  A   3  G   3  M   3  S   3  Y   3  _   3  e   3  k   3  q   3  w   3  }   3  ƒ   3  ‰   3     3  •   3  ›   3  ¢   3  ©   3  °   3  ·   3  ¾   3  Å   3  Ì   3  Ó   3  Ú   3  á   3  è   3  ï   3  ö   3  ý   3    3  
+  3    3    3     3  '  3  .  3  5  3  <  3  C  3  J  3  Q  3  X  3  _  3  f  3  m  3  t  3  {  3  ‚  3  ‰  3    3  —  3  ž  3  ¥  3  ¬  3  ³  3  º  3  Á  3  È  3  Ï  3  Ö  3  Ý  3  ä  3  ë  3  ò  3  ù  3     3     3    3    3    3  #  3  *  3  1  3  8  3  ?  3  F  3  M  3  T  3  [  3  b  3  i  3  p  3  w  3  ~  3  …  3  Œ  3  “  3  š  3  ¡  3  ¨  3  ¯  3  ¶  3  ½  3  Ä  3  Ë  3  Ò  3  Ù  3  à  3  ç  3  î  3  õ  3  ü  3    3  
+  3    3    3    3  &  3  -  3  4  3     3  
+   3     3     3  
+   3     3     3  "   3  )   3  0   3  7   3  >   3     3     3     3     3  !   3  (   3  /   3     3  
+   3     3  
+   3     3     3     3  #   3  )   3  /   3  5   3  ;   3  A   3  G   3  M   3  S   3     3  
+   3     3     3     3  &   3  -   3  4   3  ;   3  B   3  I   3  P   3  W   3  ^   3  e   3  l   3     3  
+   3     3     3     3  
+   3     3     3  "   3  )   3  0   3  7   3  >   3  E   3  L   3  S   3  Z   3  a   3  h   3  o   3  v   3  }   3  „   3  ‹   3  ’   3  ™   3      3  §   3  ®   3  µ   3  ¼   3  Ã   3  Ê   3  Ñ   3  Ø   3  ß   3  æ   3  í   3  ô   3  û   3    3  	  3    3    3    3  %  3     3  
+   3     3  
+   3     3     3  "   3  )   3  0   3     3  
+   3     3  
+   3     3  
+   3     3  
+   3     3     3     3  #   3  )   3  /   3  5   3  ;   3  A   3  G   3  M   3  S   3  Y   3  _   3  e   3     3  
+   3     3     3     3  
+   3     3     3     3  #   3  )   3  /   3  5   3  ;   3  A   3  G   3  M   3     3  
+   3     3     3     3     3  
+   3     3  
+   3     3     3     3  #   3  )   3  /   3  5   3  ;   3     3  
+   3     3     3     3  #   3  )   3  /   3  5   3  ;   3  A   3  G   3  M   3  S   3  Y   3  `   3  g   3  n   3  u   3  |   3  ƒ   3  Š   3  ‘   3  ˜   3  Ÿ   3  ¦   3  ­   3  ´   3  »   3  Â   3  É   3  Ð   3     3  
+   3     3     3     3  
+   3     3     3     3  #   3  *   3  1   3  8   3     3  
+   3     3     3  "   3  )   3  0   3     3  
+   3     3     3     3  #   3  )   3  /   3  5   3  ;   3  A   3  G   3  M   3  S   3  Y   3  _   3  e   3  k   3  q   3  w   3  }   3  ƒ   3  ‰   3     3  •   3  ›   3  ¡   3  §   3  ­   3  ³   3  ¹   3  ¿   3  Å   3  Ë   3  Ñ   3  ×   3  Ý   3  ã   3  é   3  ï   3  õ   3  û   3    3     3  
+  3    3    3     3  '  3     3  
+   3     3     3  
+   3     3     3  
+   3     3     3     3  $   3     3  
+   3     3  
+   3     3     3     3  #   3  )   3  /   3  5   3  ;   3  A   3  G   3  M   3  S   3  Y   3  _   3  e   3  k   3  q   3  w   3  }   3  ƒ   3  ‰   3     3  •   3  ›   3  ¡   3  §   3  ­   3  ³   3  ¹   3  ¿   3  Å   3  Ë   3  Ñ   3  ×   3  Ý   3  ã   3  é   3  ï   3  õ   3  û   3    3     3  
+  3    3    3    3  %  3  +  3  2  3  9  3  @  3  G  3  N  3  U  3  \  3  c  3  j  3  q  3  x  3    3  †  3    3  ”  3  ›  3  ¢  3  ©  3  °  3  ·  3  ¾  3  Å  3  Ì  3  Ó  3  Ú  3  á  3  è  3  ï  3  ö  3  ý  3    3  
+  3    3    3     3  '  3  .  3  5  3  <  3     3  
+   3     3     3     3  
+   3     3  
+   3     3  
+   3     3     3  
+   3     3     3     3  #   3  )   3  /   3  5   3  ;   3  A   3  G   3  M   3  S   3  Y   3  _   3  e   3  k   3  q   3  w   3  }   3  ƒ   3  Š   3  ‘   3  ˜   3  Ÿ   3  ¦   3  ­   3  ´   3  »   3  Â   3  É   3  Ð   3  ×   3  Þ   3  å   3  ì   3  ó   3  ú   3    3    3    3    3    3  $  3  +  3  2  3  9  3  @  3     3  
+   3     3     3     3  #   3  )   3  /   3  5   3  ;   3  B   3  I   3  P   3  W   3  ^   3  e   3  l   3  s   3  z   3     3  ˆ   3     3  –   3     3  ¤   3  «   3  ²   3  ¹   3  À   3  Ç   3  Î   3  Õ   3  Ü   3  ã   3  ê   3  ñ   3  ø   3  ÿ   3    3  
+  3    3    3  "  3  )  3  0  3  7  3  >  3  E  3  L  3  S  3  Z  3  a  3  h  3  o  3  v  3  }  3  „  3     3  
+   3     3     3  
+   3     3     3     3  #   3  )   3  /   3  6   3  =   3  D   3  K   3  R   3  Y   3  `   3  g   3  n   3  u   3  |   3  ƒ   3  Š   3  ‘   3  ˜   3  Ÿ   3  ¦   3  ­   3  ´   3  »   3  Â   3  É   3  Û  	  í  
+    
+  !    <    }    ¾    Ö    ñ    	     !     9     W   !  u   #     %  ¨   '  Æ   )  ä   +     c     	  4   c  8   
+  T   c  X   
+  x   c  |     ˜   c  œ     ¼   c  À     à   c  ä       c      0  c  4    X  c  \    €  c  „    ´  c  ¸    Ø  c  Ü  !  ü  c     #  $  c  (  %  L  c  P  '  p  c  t  )  Œ  c    +   .symtab .strtab .shstrtab .text .data .bss .bss.__env .rel.data.environ .text.initialise_monitor_handles .text._getpid .rel.text._kill .rel.text._exit .rel.text._read .rel.text._write .text._close .text._fstat .text._isatty .text._lseek .text._open .rel.text._wait .rel.text._unlink .text._times .text._stat .rel.text._link .rel.text._fork .rel.text._execve .rel.debug_info .debug_abbrev .rel.debug_aranges .rel.debug_ranges .rel.debug_macro .rel.debug_line .debug_str .comment .rel.debug_frame .ARM.attributes .group                                                        4      ¿   d                       @      ¿   e                       L      ¿   f                       X      ¿   g                       d      ¿   h                       p      ¿   i                       |      ¿   j                       ˆ      ¿   k                       ”      ¿   l                              ¿   m                       ¬      ¿   n                       ¸      ¿   o                       Ä      ¿   p                       Ð      ¿   q                       Ü      ¿   r                       è      ¿   s                       ô      ¿   t                             ¿   u                            ¿   v                            ¿   w                       $     ¿   x                       0     ¿   y                       <     ¿   z                       H     ¿   {                       T     ¿   |                       `     ¿   }                       l     ¿   ~                       x     ¿                          „     ¿   €                            ¿                          œ     ¿   ‚                       ¨     ¿   ƒ                       ´     ¿   „                       À     ¿   …                       Ì     ¿   †                       Ø     ¿   ‡                       ä     ¿   ˆ                       ð     ¿   ‰                       ü     ¿   Š                            ¿   ‹                            ¿   Œ                             ¿                          ,     ¿   Ž                       8     ¿                          D     ¿                          P     ¿   ‘                       \     ¿   ’                      h                     !             h                     '             h                     ,             h                    ;             h                    7   	   @       œê     ¿   4         I             l                    j             z                    |             Š                     x   	   @       ¤ê     ¿   8         Œ             ª                    ˆ   	   @       ¬ê     ¿   :         œ             ¾  :                  ˜   	   @       ´ê     ¿   <         ¬             ø  8                  ¨   	   @       ¼ê     ¿   >         ¹             0                    Æ             H                     Ó             h                    á             ~                    î             ˜                    þ             ´                    ú   	   @       Äê     ¿   E                     Ò                    
+  	   @       Ìê     ¿   G                     ð                    )                                 9            (                     5  	   @       Ôê     ¿   K         I            H                    E  	   @       Üê     ¿   M         Y            ^  "                  U  	   @       äê     ¿   O         k             €  ¨                 g  	   @       ìê     ¿   Q         w             (  †                 ‰             ®  ¨                  …  	   @       |ò  ˜   ¿   T         œ             V  ˜                  ˜  	   @       ó     ¿   V         ®             î  L                 ª  	   @       4ô  8  ¿   X         ®            :  ´
+                 ª  	   @      lö  @  ¿   Z         ®            î$  "                  ª  	   @      ¬ (   ¿   \         ®            %  L                  ª  	   @      Ô `   ¿   ^         ®            \%                    ª  	   @      4    ¿   `         ®            t%  ”                  ª  	   @      L ¨   ¿   b         ®            &  <                  ª  	   @      ô @   ¿   d         ®            D&  4                  ª  	   @      4 @   ¿   f         ®            x&  W                  ª  	   @      t h   ¿   h         ®            Ï&  t                 ª  	   @      Ü ¨  ¿   j         ®            C(  9                 ª  	   @      „ È  ¿   l         ®            |+                    ª  	   @      L    ¿   n         ®            ’+  C                  ª  	   @      d H   ¿   p         ®            Õ+  4                  ª  	   @      ¬ 8   ¿   r         ®            	,                    ª  	   @      ä    ¿   t         ®            ,  X                  ª  	   @      ô p   ¿   v         ®            q,  q                  ª  	   @      d
+ €   ¿   x         ®            â,                    ª  	   @      ä
+     ¿   z         ®            þ,  *                 ª  	   @       P  ¿   |         ®            (.                    ª  	   @      T    ¿   ~         ®            8.  5                  ª  	   @      d 8   ¿   €         ®            m.                    ª  	   @      œ    ¿   ‚         ®            }.                    ª  	   @      ¬    ¿   „         ®            .                    ª  	   @      ¼    ¿   †         ®            .  j                  ª  	   @      Ì ˆ   ¿   ˆ         ®             /                    ª  	   @      T     ¿   Š         ®            #/  R                  ª  	   @      t h   ¿   Œ         ®            u/  "                  ª  	   @      Ü (   ¿   Ž         ®            —/                    ª  	   @          ¿            ®            §/  @                  ª  	   @       P   ¿   ’         ®            ç/  Õ                  ª  	   @      d    ¿   ”         ®            ¼0                    ª  	   @      d     ¿   –         ®            Ø0  =                  ª  	   @      „ H   ¿   ˜         ®            1  5                  ª  	   @      Ì 8   ¿   š         ®            J1  ,                 ª  	   @       ˆ  ¿   œ         ®            v2                    ª  	   @      Œ    ¿   ž         ®            Œ2                    ª  	   @      ¤    ¿             ®            ¢2  )                  ª  	   @      ¼ 0   ¿   ¢         ®            Ë2                    ª  	   @      ì    ¿   ¤         ®            Û2  A                 ª  	   @      ü È  ¿   ¦         ®            5                    ª  	   @      Ä     ¿   ¨         ®            85                    ª  	   @      ä    ¿   ª         ®            H5                    ª  	   @      ô    ¿   ¬         ®            X5                    ª  	   @          ¿   ®         ®            n5  E                 ª  	   @       ˆ  ¿   °         ®            ³6  ‰                 ª  	   @      ¤ È  ¿   ²         ®            <8                    ª  	   @      l    ¿   ´         ®            R8  Î                  ª  	   @      „ ð   ¿   ¶         ¿              9  ý                  »  	   @       t    ¿   ¸         Ë     0       A  ÑŽ                Ö     0       îÏ  T                 ã             DÐ  ¬                 ß  	   @           ¿   ¼         ð    p        ðÒ  4                                $Ó  °
+  À   Ä         	              Ôà  Å	                               $                   
